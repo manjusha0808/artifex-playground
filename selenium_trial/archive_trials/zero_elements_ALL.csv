@@ -1,0 +1,1184 @@
+PageName,ElementCount,PopupOpened,WindowCount,HasIframes,IframeCount,ProcessingTime_ms,PageURL,PageTitle,ErrorOccurred,ErrorMessage,Timestamp,InputCount,SelectCount,TextareaCount,TotalInputElements,VisibleInputs,HiddenInputs
+Input Prospect (Person),0,Yes,2,Yes,2,6423,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,PERSON.ENTITY,No,,2026-02-02 22:30:22,300,3,0,303,32,268
+Input Prospect (Person),0,Yes,2,Yes,2,6106,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,PERSON.ENTITY,No,,2026-02-02 22:30:34,300,3,0,303,32,268
+Input Prospect (Person),0,Yes,2,Yes,2,6437,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,PERSON.ENTITY,No,,2026-02-02 22:30:45,300,3,0,303,32,268
+Authorise / Delete Person records,0,Yes,2,Yes,1,8524,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Person - Model Bank,No,,2026-02-02 22:31:23,221,0,0,221,0,221
+Input Prospect (Entity),0,Yes,2,Yes,2,6322,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,PERSON.ENTITY,No,,2026-02-02 22:31:50,296,2,0,298,30,266
+Authorise / Delete Entity records,0,Yes,2,Yes,1,9099,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Entity - Model Bank,No,,2026-02-02 22:32:27,221,0,0,221,0,221
+Input Customer Relation Group records,0,Yes,2,Yes,2,5045,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,CUSTOMER.REL.GROUP,No,,2026-02-02 22:32:53,257,1,0,258,2,255
+Authorise / Delete Customer Relation Group,0,Yes,2,Yes,1,8371,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauth Customer Relation Group ids - Model Bank,No,,2026-02-02 22:33:17,221,0,0,221,0,221
+Input/Amend Customer Group,0,Yes,2,Yes,1,9639,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Group-Input / Amend - Model Bank,No,,2026-02-02 22:33:33,221,0,0,221,0,221
+Input/Amend Customer Group,0,Yes,2,Yes,1,9420,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Group-Input / Amend - Model Bank,No,,2026-02-02 22:33:50,221,0,0,221,0,221
+Authorise Customer Group,0,Yes,2,Yes,1,8363,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Group-Authorise - Model Bank,No,,2026-02-02 22:34:07,221,0,0,221,0,221
+View Customer Group Change,0,Yes,2,Yes,1,8689,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,View Customer Group Change - Model Bank,No,,2026-02-02 22:34:23,221,0,0,221,0,221
+View Customer Group Change,0,Yes,2,Yes,1,8808,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,View Customer Group Change - Model Bank,No,,2026-02-02 22:34:39,221,0,0,221,0,221
+Amend Customer Group Change,0,Yes,2,Yes,1,9671,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Group-Input / Amend - Model Bank,No,,2026-02-02 22:34:55,221,0,0,221,0,221
+Authorise Customer Group Change,0,Yes,2,Yes,1,8595,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Group-Authorise - Model Bank,No,,2026-02-02 22:35:13,221,0,0,221,0,221
+Input Customer Relationship records,0,Yes,2,Yes,2,5010,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,CUSTOMER.REL.GROUP,No,,2026-02-02 22:35:38,257,1,0,258,2,255
+Authorise / Delete Customer Relationship recs,0,Yes,2,Yes,1,8844,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauth Customer Relation Group ids - Model Bank,No,,2026-02-02 22:36:03,221,0,0,221,0,221
+Person Entity,0,Yes,2,Yes,1,9102,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Person - Model Bank,No,,2026-02-02 22:36:19,221,0,0,221,0,221
+Person Entity,0,Yes,2,Yes,1,8712,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Person - Model Bank,No,,2026-02-02 22:36:35,221,0,0,221,0,221
+Input Party Relationship,0,Yes,2,Yes,2,5181,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Party Relationship,No,,2026-02-02 22:37:46,257,1,0,258,2,255
+Individual Customer,0,Yes,2,Yes,2,9365,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,CUSTOMER,No,,2026-02-02 22:38:27,419,18,5,442,24,395
+Capture Prospect Exit Status,0,Yes,2,No,0,12694,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,List Of Exit Prospect - Model Bank,No,,2026-02-02 22:39:15,0,0,0,0,0,0
+Activate Customer,0,Yes,2,No,0,12577,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Activate Customer - Model Bank,No,,2026-02-02 22:39:35,0,0,0,0,0,0
+Capture Customer Exit Status,0,Yes,2,No,0,12461,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Active Customer Exit List - Model Bank,No,,2026-02-02 22:40:10,0,0,0,0,0,0
+Deceased Customer,0,Yes,2,No,0,12233,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Deceased Customer. - Model Bank,No,,2026-02-02 22:40:30,0,0,0,0,0,0
+View/Reverse External User,0,Yes,2,No,0,12529,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,External Customer List - Model Bank,No,,2026-02-02 22:40:50,0,0,0,0,0,0
+Unauthorised Customer,0,Yes,2,No,0,12238,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Customer - Model Bank,No,,2026-02-02 22:41:10,0,0,0,0,0,0
+Unauthorised Customer Pending AML Check,0,Yes,2,No,0,12756,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Customer - Model Bank,No,,2026-02-02 22:41:30,0,0,0,0,0,0
+Authorise/Delete Customer,0,Yes,2,Yes,1,9280,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Customer - Model Bank,No,,2026-02-02 22:41:50,221,0,0,221,0,221
+Delete/Authorise External User,0,Yes,2,No,0,12487,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,External Customer - Model Bank,No,,2026-02-02 22:42:07,0,0,0,0,0,0
+Create Routing Instructions,0,Yes,2,No,0,12375,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Input Agency Details - Model Bank,No,,2026-02-02 22:42:27,0,0,0,0,0,0
+Amend Routing Instructions,0,Yes,2,No,0,12292,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Amend Agency Details - Model Bank,No,,2026-02-02 22:42:46,0,0,0,0,0,0
+Authorise/Delete Routing Instructions,0,Yes,2,No,0,12249,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Agency - Model Bank,No,,2026-02-02 22:43:06,0,0,0,0,0,0
+Amend Customer Charge,0,Yes,2,No,0,12366,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Charge - Model Bank,No,,2026-02-02 22:43:35,0,0,0,0,0,0
+Authorise/Delete Customer Charge,0,Yes,2,Yes,1,9585,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Customer - Model Bank,No,,2026-02-02 22:43:55,221,0,0,221,0,221
+Set/Remove Posting Restrict,0,Yes,2,No,0,12363,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Set/Remove Posting Restrict for Cus - Model Bank,No,,2026-02-02 22:44:12,0,0,0,0,0,0
+Authorise/Delete Posting Restrict,0,Yes,2,Yes,1,8881,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Posting Restrict - Model Bank,No,,2026-02-02 22:44:32,221,0,0,221,0,221
+Authorise/Delete External Arrangement,0,Yes,2,No,0,13500,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,EXTERNAL ARRANGEMENT FILE - Model Bank,No,,2026-02-02 22:44:58,0,0,0,0,0,0
+Set Customer SSI,0,Yes,2,No,0,12196,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Set for Customer SSI - Model Bank,No,,2026-02-02 22:45:18,0,0,0,0,0,0
+Authorise/Delete Customer SSI,0,Yes,2,Yes,1,8754,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Customer - Model Bank,No,,2026-02-02 22:45:38,221,0,0,221,0,221
+Create KYC,0,Yes,2,No,0,17887,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Relationship Details - Model Bank,No,,2026-02-02 22:45:54,0,0,0,0,0,0
+Create KYC,0,Yes,2,No,0,14548,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Relationship Details - Model Bank,No,,2026-02-02 22:46:19,0,0,0,0,0,0
+KYC Details,0,Yes,2,No,0,13537,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Relationship Details - Model Bank,No,,2026-02-02 22:46:41,0,0,0,0,0,0
+Risk Analysis,0,Yes,2,No,0,12185,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Relationship Details - Model Bank,No,,2026-02-02 22:47:02,0,0,0,0,0,0
+Customer Onboarding,0,Yes,2,Yes,2,5809,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,PW.PROCESS,No,,2026-02-02 22:47:33,255,1,0,256,0,255
+Customer Block,0,Yes,2,Yes,2,2574,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Block Customer or Account,No,,2026-02-02 22:48:01,280,2,1,283,12,268
+Customer Block,0,Yes,2,Yes,2,2496,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Block Customer or Account,No,,2026-02-02 22:48:08,280,2,1,283,12,268
+Commit Mass Block Record,0,Yes,2,No,0,12569,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,CMB AC ACCOUNT - Model Bank,No,,2026-02-02 22:48:40,0,0,0,0,0,0
+Authorise / Delete Mass Block,0,Yes,2,No,0,12391,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise Customer Mass Block - Model Bank,No,,2026-02-02 22:49:00,0,0,0,0,0,0
+Amend / Reverse Mass Block,0,Yes,2,No,0,12476,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Amend / Reverse Customer Block - Model Bank,No,,2026-02-02 22:49:20,0,0,0,0,0,0
+Unblock Customer / Account,0,Yes,2,No,0,12453,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer / Account Unblock - Model Bank,No,,2026-02-02 22:49:40,0,0,0,0,0,0
+Unblock Mass Block,0,Yes,2,No,0,12347,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer / Account Unblock - Model Bank,No,,2026-02-02 22:50:00,0,0,0,0,0,0
+Unblock Bundle Arrangement,0,Yes,2,No,0,12556,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Bundle Arrangement Unblock - Model Bank,No,,2026-02-02 22:50:19,0,0,0,0,0,0
+Customer Exit List,0,Yes,2,No,0,12251,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,List of Exit Customer - Model Bank,No,,2026-02-02 22:50:49,0,0,0,0,0,0
+Input Travel Notification,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-02 22:51:10,0,0,0,0,0,0
+Input Travel Notification,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-02 22:51:16,0,0,0,0,0,0
+Amend Dormancy Status,0,Yes,2,No,0,12575,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Dormant Monitor Amend - Model Bank,No,,2026-02-02 22:51:57,0,0,0,0,0,0
+Amend Dormancy Status,0,Yes,2,No,0,12133,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Dormant Monitor Amend - Model Bank,No,,2026-02-02 22:52:17,0,0,0,0,0,0
+Authorise Dormancy Status,0,Yes,2,No,0,12283,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Dormant Monitor Auth - Model Bank,No,,2026-02-02 22:52:37,0,0,0,0,0,0
+Dormancy Status Reports,0,Yes,2,No,0,13032,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Dormant Customers Report - Model Bank,No,,2026-02-02 22:52:57,0,0,0,0,0,0
+Amend Dormancy Ext Activities Capture,0,Yes,2,No,0,12076,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Amend Dormancy Ext Account Capture - Model Bank,No,,2026-02-02 22:53:27,0,0,0,0,0,0
+Authorise Dormancy Ext Activities Capture,0,Yes,2,No,0,12486,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Dormancy External Account Capture - Model Bank,No,,2026-02-02 22:53:47,0,0,0,0,0,0
+Customer,0,Yes,2,Yes,2,4565,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,CUSTOMER.REL.GROUP,No,,2026-02-02 22:54:16,257,1,0,258,2,255
+Authorize or See FCM Transaction,0,Yes,2,No,0,12633,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,View/ Unauthorised FCM Transaction - Model Bank,No,,2026-02-02 22:54:38,0,0,0,0,0,0
+Input Customer Entity Information,0,Yes,2,Yes,2,4716,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer detail for corporate entities,No,,2026-02-02 22:55:20,257,1,0,258,2,255
+Amend/View Customer Entity Information,0,Yes,2,Yes,1,8486,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Entity Details - Model Bank,No,,2026-02-02 22:55:29,221,0,0,221,0,221
+Authorise/Delete Customer Entity Information,0,Yes,2,Yes,1,8971,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Customer - Model Bank,No,,2026-02-02 22:55:45,221,0,0,221,0,221
+Create Customer Delivery Preference,0,Yes,2,Yes,2,6543,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Preferences,No,,2026-02-02 22:56:14,308,7,0,315,18,290
+Additional Address of Customer,0,Yes,2,No,0,12677,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Address - Model Bank,No,,2026-02-02 22:56:26,0,0,0,0,0,0
+Customer Delivery Address Links,0,Yes,2,No,0,12220,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Address - Model Bank,No,,2026-02-02 22:56:46,0,0,0,0,0,0
+Contact Management,0,Yes,2,No,0,14297,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Contact management - Model Bank,No,,2026-02-02 22:57:06,0,0,0,0,0,0
+Contact Management,0,Yes,2,No,0,14714,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Contact management - Model Bank,No,,2026-02-02 22:57:28,0,0,0,0,0,0
+Alerts Management,0,Yes,2,No,0,12999,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Alerts - Model Bank,No,,2026-02-02 22:57:50,0,0,0,0,0,0
+Opportunities for Customer,0,Yes,2,No,0,12182,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Opportunity List - Model Bank,No,,2026-02-02 22:58:17,0,0,0,0,0,0
+Customer Opportunities History,0,Yes,2,No,0,12349,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Opportunity List - Model Bank,No,,2026-02-02 22:58:46,0,0,0,0,0,0
+Opportunity list by Product,0,Yes,2,No,0,12423,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Opportunity List by product - Model Bank,No,,2026-02-02 22:59:06,0,0,0,0,0,0
+Open Current Account,0,Yes,2,Yes,2,7888,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,ACCOUNT,No,,2026-02-02 22:59:40,320,4,0,324,38,282
+Amend Account,0,Yes,2,No,0,12214,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Amend Account - Model Bank,No,,2026-02-02 23:00:07,0,0,0,0,0,0
+Authorise/Delete Account,0,Yes,2,Yes,1,8411,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Account - Model Bank,No,,2026-02-02 23:00:26,221,0,0,221,0,221
+Account Maintenance,0,Yes,2,No,0,12835,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Maintenance Authorisation - Model Bank,No,,2026-02-02 23:00:42,0,0,0,0,0,0
+Authorise/Delete Account Maintenance,0,Yes,2,Yes,1,8547,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Account - Model Bank,No,,2026-02-02 23:01:21,221,0,0,221,0,221
+Authorise/Delete Charge,0,Yes,2,No,0,12415,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Charges - Model Bank,No,,2026-02-02 23:01:37,0,0,0,0,0,0
+Authorise/Delete Interest Correction,0,Yes,2,No,0,12332,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Interest Corrections - Model Bank,No,,2026-02-02 23:01:57,0,0,0,0,0,0
+Account Closure,0,Yes,2,No,0,12561,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Operations - Model Bank,No,,2026-02-02 23:02:17,0,0,0,0,0,0
+Account Closure,0,Yes,2,No,0,12539,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Operations - Model Bank,No,,2026-02-02 23:02:37,0,0,0,0,0,0
+Unauthorised Account Closure,0,Yes,2,No,0,12329,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Account Closure - Model Bank,No,,2026-02-02 23:03:08,0,0,0,0,0,0
+Authorise/Delete Account Closure,0,Yes,2,Yes,1,8761,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Account - Model Bank,No,,2026-02-02 23:03:27,221,0,0,221,0,221
+Capture An Image,0,Yes,2,Yes,2,6050,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,DOCUMENT IMAGE,No,,2026-02-02 23:03:54,271,2,0,273,6,265
+Image Reversal,0,Yes,2,No,0,12496,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Reverse an Image - Model Bank,No,,2026-02-02 23:04:05,0,0,0,0,0,0
+Generate Account Statement,0,Yes,2,Yes,2,5449,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:04:35,275,1,0,276,12,263
+Generate Account Statement,0,Yes,2,Yes,2,5492,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:04:45,275,1,0,276,12,263
+Generate Account Statement,0,Yes,2,Yes,2,5379,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:04:55,275,1,0,276,12,263
+Generate Account Statement,0,Yes,2,Yes,2,5933,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:05:05,275,1,0,276,12,263
+Request Adhoc XML Account Report,0,Yes,2,Yes,2,4549,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Request statement,No,,2026-02-02 23:05:25,257,1,0,258,2,255
+View Adhoc XML Account Report,0,Yes,2,No,0,12351,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,List of Adhoc Requests - Model Bank,No,,2026-02-02 23:05:34,0,0,0,0,0,0
+Request Intraday XML Account Report,0,Yes,2,Yes,2,4971,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Statement,No,,2026-02-02 23:06:03,257,1,0,258,2,255
+View Intraday XML Account Report requests,0,Yes,2,No,0,12285,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,List of Intraday Requests - Model Bank,No,,2026-02-02 23:06:12,0,0,0,0,0,0
+View XML Account Statements,0,Yes,2,No,0,12443,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Statement - XML Message - Model Bank,No,,2026-02-02 23:06:32,0,0,0,0,0,0
+View XML Account Statements,0,Yes,2,No,0,12236,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Statement - XML Message - Model Bank,No,,2026-02-02 23:06:52,0,0,0,0,0,0
+View Interim XML Account Reports,0,Yes,2,No,0,12513,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,List of Account Reports for the day - Model Bank,No,,2026-02-02 23:07:11,0,0,0,0,0,0
+View Undelivered Xml Message,0,Yes,2,No,0,12170,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Resubmit Exception - CAMT Message - Model Bank,No,,2026-02-02 23:07:31,0,0,0,0,0,0
+View Undelivered Xml Message,0,Yes,2,No,0,12370,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Resubmit Exception - CAMT Message - Model Bank,No,,2026-02-02 23:07:51,0,0,0,0,0,0
+Resubmit undelivered Xml Message,0,Yes,2,No,0,12290,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Resubmit Exception - CAMT Message - Model Bank,No,,2026-02-02 23:08:11,0,0,0,0,0,0
+Generate MT942 Statement,0,Yes,2,Yes,2,4550,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,DE.MT942.REQUEST,No,,2026-02-02 23:08:40,257,1,0,258,2,255
+View Recent Account Entries,0,Yes,2,No,0,12201,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,List of Recent Transactions - Model Bank,No,,2026-02-02 23:09:01,0,0,0,0,0,0
+View Account Transactions,0,Yes,2,No,0,12536,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,List of Account Transactions - Model Bank,No,,2026-02-02 23:09:20,0,0,0,0,0,0
+View Inward Statement Request,0,Yes,2,No,0,12342,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Cos for Successful Inward Swift Req - Model Bank,No,,2026-02-02 23:09:40,0,0,0,0,0,0
+View Inward Statement Request,0,Yes,2,No,0,12244,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Cos for Successful Inward Swift Req - Model Bank,No,,2026-02-02 23:10:00,0,0,0,0,0,0
+Unauthorised Inward Statement Request,0,Yes,2,No,0,12422,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Incorrect Inward Swift Requests - Model Bank,No,,2026-02-02 23:10:19,0,0,0,0,0,0
+Generate Account Statement,0,Yes,2,Yes,2,5419,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:10:39,275,1,0,276,12,263
+Generate Account Statement,0,Yes,2,Yes,2,5449,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:10:50,275,1,0,276,12,263
+Account Closure,0,Yes,2,No,0,12366,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Operations - Model Bank,No,,2026-02-02 23:11:00,0,0,0,0,0,0
+Account Overdrawn Enquiries,0,Yes,2,No,0,12710,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Overdrawn Details - Model Bank,No,,2026-02-02 23:11:19,0,0,0,0,0,0
+Account Overdrawn Enquiries,0,Yes,2,No,0,12217,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Overdrawn Details - Model Bank,No,,2026-02-02 23:11:39,0,0,0,0,0,0
+Global View -Interest & Charges,0,Yes,2,No,0,17683,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Interest and Charges - Model Bank,No,,2026-02-02 23:11:59,0,0,0,0,0,0
+Global View -Interest & Charges,0,Yes,2,No,0,16497,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Interest and Charges - Model Bank,No,,2026-02-02 23:12:24,0,0,0,0,0,0
+Transaction Cycler Details,0,Yes,2,No,0,12295,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Transaction Recycler Details - Model Bank,No,,2026-02-02 23:12:48,0,0,0,0,0,0
+Transaction Cycler Details,0,Yes,2,No,0,12570,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Transaction Recycler Details - Model Bank,No,,2026-02-02 23:13:08,0,0,0,0,0,0
+Transaction Cycler History Details,0,Yes,2,Yes,1,9280,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Transaction Recycler Details - Model Bank,No,,2026-02-02 23:13:28,221,0,0,221,0,221
+View Pending RC Transactions,0,Yes,2,No,0,12241,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,RC Pending Transactions - Model Bank,No,,2026-02-02 23:13:45,0,0,0,0,0,0
+Authorise RC Termination/Manual Approval,0,Yes,2,No,0,12711,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorise Transaction Recycler - Model Bank,No,,2026-02-02 23:14:04,0,0,0,0,0,0
+Initiate Booking Request,0,Yes,2,Yes,2,2305,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Internal Book Request,No,,2026-02-02 23:14:31,273,2,1,276,6,267
+Authorise/Delete Booking Requests,0,Yes,2,No,0,12297,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Booking Requests - Model Bank,No,,2026-02-02 23:14:38,0,0,0,0,0,0
+Clearing Batch Messages,0,Yes,2,No,0,12315,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Clearing Batch Messages - Model Bank,No,,2026-02-02 23:14:58,0,0,0,0,0,0
+Interface Transaction List,0,Yes,2,No,0,12612,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,AC Inward Entries - Model Bank,No,,2026-02-02 23:15:18,0,0,0,0,0,0
+Capture Transaction Stop Instructions,0,Yes,2,Yes,2,5694,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Transaction Stop Instructions,No,,2026-02-02 23:15:48,277,6,0,283,7,270
+Authorise Transaction Stop Instructions,0,Yes,2,No,0,12301,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Stop Instructions - Model Bank,No,,2026-02-02 23:15:59,0,0,0,0,0,0
+Search Transaction Stop Instructions,0,Yes,2,No,0,12229,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Transaction Stop Instructions List - Model Bank,No,,2026-02-02 23:16:18,0,0,0,0,0,0
+Transaction Stop Investigation Items,0,Yes,2,No,0,12572,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Txn Stop Investigation Items - Model Bank,No,,2026-02-02 23:16:38,0,0,0,0,0,0
+Authorise/Delete Stop Investigation Items,0,Yes,2,No,0,12416,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise Investigation Items - Model Bank,No,,2026-02-02 23:16:58,0,0,0,0,0,0
+Payment Regulatory Reports,0,Yes,2,No,0,13778,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Payment Regulatory Report - Model Bank,No,,2026-02-02 23:17:18,0,0,0,0,0,0
+Register Proxy Directory,0,Yes,2,Yes,2,4827,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Proxy Directory,No,,2026-02-02 23:17:48,257,1,0,258,2,255
+Update Proxy Directory,0,Yes,2,Yes,1,8263,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Update Proxy Directory - Model Bank,No,,2026-02-02 23:17:57,221,0,0,221,0,221
+Authorise Proxy Directory,0,Yes,2,Yes,1,8190,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise Proxy Directory - Model Bank,No,,2026-02-02 23:18:13,221,0,0,221,0,221
+Replay and Sync Errors,0,Yes,2,No,0,12341,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Replay Sync Errors - Model Bank,No,,2026-02-02 23:18:29,0,0,0,0,0,0
+Replay and Sync Errors,0,Yes,2,No,0,12499,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Replay Sync Errors - Model Bank,No,,2026-02-02 23:18:49,0,0,0,0,0,0
+Account Sync Errors,0,Yes,2,No,0,12535,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Sync Errors - Model Bank,No,,2026-02-02 23:19:09,0,0,0,0,0,0
+Reservations in Sync Phase,0,Yes,2,No,0,12383,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Reservations in Sync - Model Bank,No,,2026-02-02 23:19:29,0,0,0,0,0,0
+Reconciliation Results,0,Yes,2,No,0,12359,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,ACFAMS Recon Results - Model Bank,No,,2026-02-02 23:19:48,0,0,0,0,0,0
+Reservations in Sync Phase-NonFin,0,Yes,2,No,0,12247,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Reservations in Sync - Model Bank,No,,2026-02-02 23:20:08,0,0,0,0,0,0
+External Contract Details,0,Yes,2,No,0,12463,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,List of Microservice based Contract - Model Bank,No,,2026-02-02 23:20:28,0,0,0,0,0,0
+External Contract Details,0,Yes,2,No,0,12286,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,List of Microservice based Contract - Model Bank,No,,2026-02-02 23:20:48,0,0,0,0,0,0
+External Transaction Details,0,Yes,2,No,0,12216,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,List of Microservice based Txn - Model Bank,No,,2026-02-02 23:21:07,0,0,0,0,0,0
+Mandate Management,0,Yes,2,No,0,14392,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Mandate Management - Model Bank,No,,2026-02-02 23:21:27,0,0,0,0,0,0
+Mandate Management,0,Yes,2,No,0,14389,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Mandate Management - Model Bank,No,,2026-02-02 23:21:49,0,0,0,0,0,0
+DD Management,0,Yes,2,No,0,15963,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Direct Debits - Model Bank,No,,2026-02-02 23:22:10,0,0,0,0,0,0
+DD Management,0,Yes,2,No,0,15676,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Direct Debits - Model Bank,No,,2026-02-02 23:22:34,0,0,0,0,0,0
+Mandate Received File/Bulk/Txns,0,Yes,2,No,0,12816,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,DD Received Files/Bulks/Txns - Model Bank,No,,2026-02-02 23:22:57,0,0,0,0,0,0
+Mandate Received File/Bulk/Txns,0,Yes,2,No,0,13079,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,DD Received Files/Bulks/Txns - Model Bank,No,,2026-02-02 23:23:17,0,0,0,0,0,0
+Mandate Sent File/Bulk/Txns,0,Yes,2,No,0,12928,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,DD Sent Files/Bulks/Txns List - Model Bank,No,,2026-02-02 23:23:38,0,0,0,0,0,0
+Authorize Sent Bulk,0,Yes,2,No,0,12531,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorize/Delete DD Mandate Sent Bulk List - Model Bank,No,,2026-02-02 23:23:58,0,0,0,0,0,0
+Product Catalog,0,Yes,2,No,0,16061,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,T24 Product Catalog - Model Bank,No,,2026-02-02 23:24:18,0,0,0,0,0,0
+Product Catalog,0,Yes,2,No,0,12314,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,T24 Product Catalog - Model Bank,No,,2026-02-02 23:24:42,0,0,0,0,0,0
+Product Catalog,0,Yes,2,No,0,12255,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,T24 Product Catalog - Model Bank,No,,2026-02-02 23:25:01,0,0,0,0,0,0
+External Product Catalog,0,Yes,2,No,0,9254,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,AA Product Catalog (Retail) - Model Bank,No,,2026-02-02 23:25:21,4,0,0,4,0,4
+Find Account,0,Yes,2,No,0,7656,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,AA Arrangement - Model Bank,No,,2026-02-02 23:26:03,274,12,0,286,11,263
+Create New Till,0,Yes,2,Yes,2,4751,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER ID,No,,2026-02-02 23:26:25,257,1,0,258,2,255
+Create New Till,0,Yes,2,Yes,2,4902,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER ID,No,,2026-02-02 23:26:34,257,1,0,258,2,255
+Create New Till,0,Yes,2,Yes,2,4967,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER ID,No,,2026-02-02 23:26:43,257,1,0,258,2,255
+Create New Till,0,Yes,2,Yes,2,4651,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER ID,No,,2026-02-02 23:26:52,257,1,0,258,2,255
+Change Till User,0,Yes,2,Yes,1,8205,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Reassign Till - Model Bank,No,,2026-02-02 23:27:01,221,0,0,221,0,221
+Reopen Teller,0,Yes,2,No,0,12262,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Reopen Teller - Model Bank,No,,2026-02-02 23:27:17,0,0,0,0,0,0
+Authorise/Delete Till Closure,0,Yes,2,No,0,12580,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Teller Authorise/Delete Operations - Model Bank,No,,2026-02-02 23:27:37,0,0,0,0,0,0
+Authorise/Delete Till Transfer,0,Yes,2,No,0,12541,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Teller Authorise/Delete Operations - Model Bank,No,,2026-02-02 23:27:57,0,0,0,0,0,0
+Authorise/Delete Till Transfer,0,Yes,2,No,0,12524,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Teller Authorise/Delete Operations - Model Bank,No,,2026-02-02 23:28:17,0,0,0,0,0,0
+Create/Amend Internal Account,0,Yes,2,Yes,2,4921,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,ACCOUNT,No,,2026-02-02 23:28:46,257,1,0,258,2,255
+Create/Amend Internal Account,0,Yes,2,Yes,2,4667,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,ACCOUNT,No,,2026-02-02 23:28:55,257,1,0,258,2,255
+Authorise/Delete Internal Accounts,0,Yes,2,No,0,12566,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Interest Corrections - Model Bank,No,,2026-02-02 23:29:04,0,0,0,0,0,0
+Authorise/Delete TC Stock Transactions,0,Yes,2,No,0,12277,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Teller Operations - Model Bank,No,,2026-02-02 23:29:24,0,0,0,0,0,0
+Authorise/Delete Nostro Funding,0,Yes,2,Yes,1,9555,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Funds Transfer Operations - Model Bank,No,,2026-02-02 23:29:44,221,0,0,221,0,221
+Cash Position by Till,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-02 23:30:03,0,0,0,0,0,0
+Cash deposit Local,0,Yes,2,Yes,2,6858,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:30:53,309,1,0,310,2,307
+Cash deposit Local,0,Yes,2,Yes,2,6494,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:31:04,309,1,0,310,2,307
+Authorise/Delete Teller Cash Transactions,0,Yes,2,No,0,12259,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Teller Operations - Model Bank,No,,2026-02-02 23:32:24,0,0,0,0,0,0
+Sell Fgn Ccy against Local Ccy,0,Yes,2,Yes,2,5239,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:32:54,309,1,0,310,2,307
+Authorise/Delete Currency Exchange,0,Yes,2,Yes,1,8633,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Teller Operations - Model Bank,No,,2026-02-02 23:33:24,221,0,0,221,0,221
+Receipt of TC Stock,0,Yes,2,Yes,2,5304,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:33:49,309,1,0,310,2,307
+Sell TC's against Cash,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-02 23:34:49,0,0,0,0,0,0
+Sell TC's against Cash,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-02 23:34:49,0,0,0,0,0,0
+Sell TC's against Account,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-02 23:34:49,0,0,0,0,0,0
+Buy TC's against Cash,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-02 23:34:49,0,0,0,0,0,0
+Buy TC's against Account,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-02 23:34:49,0,0,0,0,0,0
+Authorise/Delete TC Transactions,0,Yes,2,No,0,12528,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Teller Operations - Model Bank,No,,2026-02-02 23:35:33,0,0,0,0,0,0
+Issue LCY Drafts against Cash,0,Yes,2,No,0,14008,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Local Draft Issue - Model Bank,No,,2026-02-02 23:35:53,0,0,0,0,0,0
+Issue LCY Drafts against Cash,0,Yes,2,No,0,13648,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Local Draft Issue - Model Bank,No,,2026-02-02 23:36:14,0,0,0,0,0,0
+Issue LCY Drafts against Account,0,Yes,2,No,0,13649,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Local Draft Issue - Model Bank,No,,2026-02-02 23:36:35,0,0,0,0,0,0
+Payment of LCY Drafts by Cash,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-02 23:36:58,0,0,0,0,0,0
+Payment of LCY Drafts to Account,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-02 23:37:04,0,0,0,0,0,0
+Authorise/Delete Draft Transactions,0,Yes,2,No,0,12469,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Teller Operations - Model Bank,No,,2026-02-02 23:37:09,0,0,0,0,0,0
+Account to Account Transfer,0,Yes,2,Yes,2,5246,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:37:38,309,1,0,310,2,307
+Authorise/Delete Account Transfer,0,Yes,2,Yes,1,8886,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Account - Model Bank,No,,2026-02-02 23:37:48,221,0,0,221,0,221
+Update Account Statement,0,Yes,2,Yes,2,4734,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Statement,No,,2026-02-02 23:38:14,257,1,0,258,2,255
+LCY Till Transfer,0,Yes,2,Yes,2,5765,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:38:42,309,1,0,310,2,307
+Initiate Till Closure,0,Yes,2,Yes,2,4587,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER ID,No,,2026-02-02 23:39:31,257,1,0,258,2,255
+Cash Position by Till,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-02 23:39:42,0,0,0,0,0,0
+Local Draft Enquiries,0,Yes,2,No,0,13079,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Local Draft Enquiries - Model Bank,No,,2026-02-02 23:39:47,0,0,0,0,0,0
+Till Cash Entries Today,0,Yes,2,No,0,7140,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Till Cash Entries Today - Model Bank,No,,2026-02-02 23:40:07,173,7,0,180,5,168
+Till TC Issue Entries Today,0,Yes,2,No,0,7176,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Till Cash Entries Today - Model Bank,No,,2026-02-02 23:40:19,175,5,0,180,5,170
+Till TC Buy Entries Today,0,Yes,2,No,0,7129,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Till TC Buy Entries Today - Model Bank,No,,2026-02-02 23:40:31,175,5,0,180,5,170
+Find Account,0,Yes,2,No,0,7874,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,AA Arrangement - Model Bank,No,,2026-02-02 23:40:43,274,12,0,286,11,263
+Find Account,0,Yes,2,No,0,7732,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,AA Arrangement - Model Bank,No,,2026-02-02 23:40:56,274,12,0,286,11,263
+Multi Till Operations,0,Yes,2,No,0,22748,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TFS Transaction - Model Bank,No,,2026-02-02 23:41:32,0,0,0,0,0,0
+Multi Till Operations - Lcy,0,Yes,2,No,0,22921,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TFS Transaction - Model Bank,No,,2026-02-02 23:42:03,0,0,0,0,0,0
+Reverse TFS Transaction,0,Yes,2,Yes,1,8459,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Reverse TFS Transaction - Model Bank,No,,2026-02-02 23:42:45,221,0,0,221,0,221
+Reverse TFS Transaction - History,0,Yes,2,Yes,1,8289,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Reverse TFS Transaction - Model Bank,No,,2026-02-02 23:43:01,221,0,0,221,0,221
+Authorise/Delete TFS Transactions,0,Yes,2,Yes,1,8452,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised TFS - Model Bank,No,,2026-02-02 23:43:17,221,0,0,221,0,221
+Draft Issue in Local Currency,0,Yes,2,Yes,2,7303,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Payment Order,No,,2026-02-02 23:43:46,309,1,1,311,20,289
+Authorise/Delete Draft/Acct Trfr,0,Yes,2,No,0,12437,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Teller Operations - Model Bank,No,,2026-02-02 23:44:26,0,0,0,0,0,0
+Pay/Ret LCY Drafts in Hold recd thro Clearing,0,Yes,2,No,0,12294,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Pymnt/Return of Drafts in Exception - Model Bank,No,,2026-02-02 23:44:58,0,0,0,0,0,0
+Stop Payment for Drafts,0,Yes,2,No,0,12553,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Mark Stop Payment - Model Bank,No,,2026-02-02 23:45:18,0,0,0,0,0,0
+Authorise/Delete Stop payment of drafts,0,Yes,2,No,0,12552,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise Investigation Items - Model Bank,No,,2026-02-02 23:45:38,0,0,0,0,0,0
+Revoke Stop Payment of Draft,0,Yes,2,No,0,12654,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Revoke Stop Payment - Model Bank,No,,2026-02-02 23:45:58,0,0,0,0,0,0
+Authorise/Delete Revoke Stop Payment of Draft,0,Yes,2,Yes,1,8730,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Revoke - Model Bank,No,,2026-02-02 23:46:18,221,0,0,221,0,221
+Cancellation of LCY Drafts,0,Yes,2,No,0,12421,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Cancellations Drafts - Model Bank,No,,2026-02-02 23:46:34,0,0,0,0,0,0
+Authorise/Delete Cancellation of LCY Drafts,0,Yes,2,Yes,1,8996,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise Cancellation of Drafts - Model Bank,No,,2026-02-02 23:46:54,221,0,0,221,0,221
+View Debit/Credit Advices,0,Yes,2,No,0,12409,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,FT Transaction Delivery - Model Bank,No,,2026-02-02 23:47:10,0,0,0,0,0,0
+Local Draft Enquiries,0,Yes,2,No,0,13062,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Local Draft Enquiries - Model Bank,No,,2026-02-02 23:47:30,0,0,0,0,0,0
+Local Draft Enquiries,0,Yes,2,No,0,13269,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Local Draft Enquiries - Model Bank,No,,2026-02-02 23:47:50,0,0,0,0,0,0
+Receipt of Stock,0,Yes,2,Yes,2,2563,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,STOCK.ENTRY,No,,2026-02-02 23:48:18,273,1,1,275,9,264
+Authorise / Delete Receipt of Stock,0,Yes,2,No,0,12268,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Stock Entry - Model Bank,No,,2026-02-02 23:48:25,0,0,0,0,0,0
+Unauthorised Cheque Issue,0,Yes,2,Yes,1,8673,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Cheque Issue - Model Bank,No,,2026-02-02 23:48:45,221,0,0,221,0,221
+Authorise / Delete Issue of Cheques,0,Yes,2,Yes,1,8490,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Cheque Issue - Model Bank,No,,2026-02-02 23:49:01,221,0,0,221,0,221
+Authorise/Delete Stop Payment of Cheque,0,Yes,2,No,0,12182,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise Investigation Items - Model Bank,No,,2026-02-02 23:49:26,0,0,0,0,0,0
+Revoke Stop Payment of Cheque,0,Yes,2,No,0,12630,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Revoke Stop Payment - Model Bank,No,,2026-02-02 23:49:46,0,0,0,0,0,0
+Authorise/Delete Revoke Payment Stop,0,Yes,2,Yes,1,8582,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Revoke - Model Bank,No,,2026-02-02 23:50:06,221,0,0,221,0,221
+Send Stop Payment Status Msg-MT112,0,Yes,2,No,0,12237,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Confirm Stop Payment - Model Bank,No,,2026-02-02 23:50:22,0,0,0,0,0,0
+Authorise/Delete Status Update-MT112,0,Yes,2,No,0,12549,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise MT112 - Model Bank,No,,2026-02-02 23:50:42,0,0,0,0,0,0
+Cheque Return Amend/Delete,0,Yes,2,No,0,12189,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Amend Cheque Return - Model Bank,No,,2026-02-02 23:51:11,0,0,0,0,0,0
+Authorise Cheque Return,0,Yes,2,No,0,12439,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise Cheque Return - Model Bank,No,,2026-02-02 23:51:31,0,0,0,0,0,0
+List of Cheque Return,0,Yes,2,No,0,12404,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Cheque Return List - Model Bank,No,,2026-02-02 23:51:50,0,0,0,0,0,0
+New Card Issue,0,Yes,2,Yes,2,4696,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,CARD ISSUE,No,,2026-02-02 23:52:20,257,1,0,258,2,255
+Manage card,0,Yes,2,No,0,12419,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Manage Card - Model Bank,No,,2026-02-02 23:52:29,0,0,0,0,0,0
+Authorise/Delete Card Issue,0,Yes,2,Yes,1,8814,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Card Issue - Model Bank,No,,2026-02-02 23:52:49,221,0,0,221,0,221
+Deposit Local Cheques - Direct Clearing,0,Yes,2,Yes,2,5430,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:53:15,309,1,0,310,2,307
+Deposit Local Cheques - Direct Clearing,0,Yes,2,Yes,2,5525,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:53:25,309,1,0,310,2,307
+Authorise/Delete Outward Clearing,0,Yes,2,Yes,1,8418,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Outward Clearing - Model Bank,No,,2026-02-02 23:53:45,221,0,0,221,0,221
+Authorise/Delete Cheque Collection,0,Yes,2,No,0,12523,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Cheques Colln - Model Bank,No,,2026-02-02 23:54:01,0,0,0,0,0,0
+Deposit Outstation Cheques,0,Yes,2,Yes,2,5298,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:56:07,309,1,0,310,2,307
+Authorise/Delete Outstation Cheques,0,Yes,2,Yes,1,8696,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Outward Clearing - Model Bank,No,,2026-02-02 23:56:17,221,0,0,221,0,221
+Pay / Return Outstation Cheques,0,Yes,2,No,0,12552,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Outstation Cheques Operations - Model Bank,No,,2026-02-02 23:56:33,0,0,0,0,0,0
+Authorise/Delete Pay/Return Outstation Chqs,0,Yes,2,No,0,12247,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Pay/Return OS Chqs - Model Bank,No,,2026-02-02 23:56:53,0,0,0,0,0,0
+Deposit Foreign Cheques,0,Yes,2,Yes,2,5363,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:57:47,309,1,0,310,2,307
+Authorise/Delete Foreign Cheques,0,Yes,2,Yes,1,8097,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Foreign Cheques - Model Bank,No,,2026-02-02 23:57:57,221,0,0,221,0,221
+Authorise/Delete Pay/Return Foreign Chqs,0,Yes,2,No,0,12306,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Pay/Return OS Chqs - Model Bank,No,,2026-02-02 23:58:12,0,0,0,0,0,0
+Unauthorised Cheque Collection,0,Yes,2,Yes,1,8225,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Cheque Issue - Model Bank,No,,2026-02-02 23:58:56,221,0,0,221,0,221
+Unauthorised Cheque Collection,0,Yes,2,Yes,1,8127,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Cheque Issue - Model Bank,No,,2026-02-02 23:59:12,221,0,0,221,0,221
+Authorise/Delete Settlements,0,Yes,2,No,0,12318,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Funds Transfer Operations - Model Bank,No,,2026-02-02 23:59:27,0,0,0,0,0,0
+Authorise/Delete Settlements,0,Yes,2,No,0,12381,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Funds Transfer Operations - Model Bank,No,,2026-02-02 23:59:47,0,0,0,0,0,0
+Cheque Collection for Cheque Change,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 00:00:09,0,0,0,0,0,0
+Unrealised Outstation Cheques,0,Yes,2,Yes,1,8251,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Pending Outstation Cheques - Model Bank,No,,2026-02-03 00:00:13,221,0,0,221,0,221
+Unrealised Foreign Cheques,0,Yes,2,No,0,12192,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Error,No,,2026-02-03 00:00:29,0,0,0,0,0,0
+Cheque Collection Details,0,Yes,2,No,0,32248,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:00:48,0,0,0,0,0,0
+Find Multi Currency,0,Yes,2,No,0,32363,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:01:28,0,0,0,0,0,0
+Find Multi Currency,0,Yes,2,No,0,32275,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:02:08,0,0,0,0,0,0
+Find Deposit,0,Yes,2,No,0,32200,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:02:47,0,0,0,0,0,0
+Find Deposit,0,Yes,2,No,0,32193,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:03:27,0,0,0,0,0,0
+AA Deposit - Fund,0,Yes,2,No,0,32254,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:04:07,0,0,0,0,0,0
+AA Deposit - Fund,0,Yes,2,No,0,32201,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:04:46,0,0,0,0,0,0
+AA Deposit - Fund,0,Yes,2,No,0,32284,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:05:26,0,0,0,0,0,0
+AA Pay-out-Domestic,0,Yes,2,No,0,32249,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:06:06,0,0,0,0,0,0
+AA Pay-out-International,0,Yes,2,No,0,32344,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:06:45,0,0,0,0,0,0
+AA Partial Withdrawal,0,Yes,2,No,0,32199,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:07:25,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32182,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:08:05,0,0,0,0,0,0
+AA Deposit - Fund(LCY),0,Yes,2,No,0,32271,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:08:44,0,0,0,0,0,0
+AA Deposit - Fund(LCY),0,Yes,2,No,0,32367,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:09:24,0,0,0,0,0,0
+AA Deposit - Fund(FCY),0,Yes,2,No,0,32169,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:10:04,0,0,0,0,0,0
+AA Pay-out,0,Yes,2,No,0,32228,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:10:43,0,0,0,0,0,0
+AA Partial Withdrawal,0,Yes,2,No,0,32192,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:11:23,0,0,0,0,0,0
+Authorise/Delete Arrangements (TT),0,Yes,2,No,0,32279,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:12:02,0,0,0,0,0,0
+Find Loan,0,Yes,2,No,0,32352,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:12:42,0,0,0,0,0,0
+Find Loan,0,Yes,2,No,0,32283,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:13:22,0,0,0,0,0,0
+AA Disbursement Domestic,0,Yes,2,No,0,32172,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:14:01,0,0,0,0,0,0
+AA Disbursement Domestic,0,Yes,2,No,0,32206,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:14:41,0,0,0,0,0,0
+AA Disbursement Domestic,0,Yes,2,No,0,32293,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:15:21,0,0,0,0,0,0
+AA Disbursement International,0,Yes,2,No,0,32246,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:16:00,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32192,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:16:40,0,0,0,0,0,0
+AA Advance Repayment,0,Yes,2,No,0,32265,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:17:20,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32190,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:17:59,0,0,0,0,0,0
+AA Principal Decrease,0,Yes,2,No,0,32232,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:18:39,0,0,0,0,0,0
+AA Credit Arrangement,0,Yes,2,No,0,32224,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:19:18,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32231,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:19:58,0,0,0,0,0,0
+AA Disbursement,0,Yes,2,No,0,32155,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:20:38,0,0,0,0,0,0
+AA Disbursement,0,Yes,2,No,0,32195,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:21:17,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32289,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:21:57,0,0,0,0,0,0
+AA Advance Repayment,0,Yes,2,No,0,32282,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:22:37,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32279,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:23:17,0,0,0,0,0,0
+AA Credit Arrangement,0,Yes,2,No,0,32231,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:23:56,0,0,0,0,0,0
+Unauthorised Teller Transactions,0,Yes,2,No,0,32319,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:24:36,0,0,0,0,0,0
+Authorise/Delete Arrangements (TT)S,0,Yes,2,No,0,32354,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:25:16,0,0,0,0,0,0
+Set up Cash Pool,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 00:25:57,0,0,0,0,0,0
+Unauthorised Cash Pool,0,Yes,2,No,0,32286,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:26:02,0,0,0,0,0,0
+Authorise/Delete Cash Pool,0,Yes,2,No,0,32315,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:26:41,0,0,0,0,0,0
+Input DD Mandate,0,Yes,2,No,0,32223,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:27:21,0,0,0,0,0,0
+Input DD Mandate,0,Yes,2,No,0,32271,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:28:01,0,0,0,0,0,0
+Unauthorised DD Mandate,0,Yes,2,No,0,32214,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:28:40,0,0,0,0,0,0
+Authorise/Delete DD Mandate,0,Yes,2,No,0,32191,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:29:20,0,0,0,0,0,0
+Find Bundle Accounts,0,Yes,2,No,0,32240,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:30:00,0,0,0,0,0,0
+Find Bundle Accounts,0,Yes,2,No,0,32222,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:30:39,0,0,0,0,0,0
+Pricing Arrangements,0,Yes,2,No,0,32237,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:31:19,0,0,0,0,0,0
+Pricing Arrangements,0,Yes,2,No,0,32222,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:31:59,0,0,0,0,0,0
+Find Agents,0,Yes,2,No,0,32279,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:32:38,0,0,0,0,0,0
+Find Agents,0,Yes,2,No,0,32312,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:33:18,0,0,0,0,0,0
+Agent Commission Payout,0,Yes,2,No,0,32316,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:33:57,0,0,0,0,0,0
+Agent Commission Payout,0,Yes,2,No,0,32354,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:34:37,0,0,0,0,0,0
+Agent Commission Payout,0,Yes,2,No,0,32329,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:35:17,0,0,0,0,0,0
+Agent Commission Payin,0,Yes,2,No,0,32242,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:35:57,0,0,0,0,0,0
+Find Reward Schemes,0,Yes,2,No,0,32193,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:36:36,0,0,0,0,0,0
+Find Reward Schemes,0,Yes,2,No,0,32242,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:37:16,0,0,0,0,0,0
+Find Safe Deposit Box,0,Yes,2,No,0,32325,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:37:55,0,0,0,0,0,0
+Find Safe Deposit Box,0,Yes,2,No,0,32279,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:38:35,0,0,0,0,0,0
+AA Safe Deposit Box - Fund,0,Yes,2,No,0,32295,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:39:15,0,0,0,0,0,0
+AA Safe Deposit Box - Fund,0,Yes,2,No,0,32239,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:39:55,0,0,0,0,0,0
+AA Safe Deposit Box - Fund,0,Yes,2,No,0,32210,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:40:34,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32274,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:41:14,0,0,0,0,0,0
+AA Safe Deposit Box - Fund(LCY),0,Yes,2,No,0,32220,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:41:54,0,0,0,0,0,0
+AA Safe Deposit Box - Fund(LCY),0,Yes,2,No,0,32242,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:42:33,0,0,0,0,0,0
+AA Safe Deposit Box - Fund(FCY),0,Yes,2,No,0,32245,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:43:13,0,0,0,0,0,0
+Authorise/Delete Arrangements (TT),0,Yes,2,No,0,32239,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:43:52,0,0,0,0,0,0
+Find Personal Consent,0,Yes,2,No,0,32177,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:44:32,0,0,0,0,0,0
+Find Personal Consent,0,Yes,2,No,0,32273,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:45:12,0,0,0,0,0,0
+Find External Products,0,Yes,2,No,0,32140,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:45:52,0,0,0,0,0,0
+Find External Products,0,Yes,2,No,0,32233,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:46:31,0,0,0,0,0,0
+List of Collection Items,0,Yes,2,No,0,32264,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:47:11,0,0,0,0,0,0
+List of Collection Items,0,Yes,2,No,0,32269,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:47:50,0,0,0,0,0,0
+Find Facility,0,Yes,2,No,0,32167,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:48:30,0,0,0,0,0,0
+Find Facility,0,Yes,2,No,0,32323,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:49:10,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32348,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:49:49,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32156,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:50:29,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32332,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:51:09,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32230,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:51:48,0,0,0,0,0,0
+AA Principal Decrease,0,Yes,2,No,0,32364,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:52:28,0,0,0,0,0,0
+AA Bills Repayment,0,Yes,2,No,0,32340,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:53:07,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32239,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:53:47,0,0,0,0,0,0
+New Dossier,0,Yes,2,No,0,32240,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:54:27,0,0,0,0,0,0
+New Dossier,0,Yes,2,No,0,32249,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:55:07,0,0,0,0,0,0
+Quotation Request,0,Yes,2,No,0,32225,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:55:47,0,0,0,0,0,0
+Needs Analysis,0,Yes,2,No,0,32183,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:56:26,0,0,0,0,0,0
+Evidence,0,Yes,2,No,0,32156,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:57:06,0,0,0,0,0,0
+Advice,0,Yes,2,No,0,32255,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:57:46,0,0,0,0,0,0
+Form,0,Yes,2,No,0,32213,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:58:25,0,0,0,0,0,0
+Interface Request,0,Yes,2,No,0,32259,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:59:05,0,0,0,0,0,0
+Mapping Request,0,Yes,2,No,0,32285,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 00:59:45,0,0,0,0,0,0
+Decision,0,Yes,2,No,0,32260,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:00:24,0,0,0,0,0,0
+Product Catalog,0,Yes,2,No,0,32190,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:01:04,0,0,0,0,0,0
+Product Catalog,0,Yes,2,No,0,32357,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:01:44,0,0,0,0,0,0
+Find Accounts,0,Yes,2,No,0,32400,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:02:23,0,0,0,0,0,0
+Find Accounts,0,Yes,2,No,0,32362,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:03:03,0,0,0,0,0,0
+Draft Issue in Local Currency,0,Yes,2,No,0,32274,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:03:43,0,0,0,0,0,0
+Draft Issue in Local Currency,0,Yes,2,No,0,32170,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:04:22,0,0,0,0,0,0
+Draft Issue in Foreign Currency,0,Yes,2,No,0,32178,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:05:02,0,0,0,0,0,0
+Transfer between Accounts,0,Yes,2,No,0,32293,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:05:42,0,0,0,0,0,0
+Authorise/Delete Draft/Acct Trfr,0,Yes,2,No,0,32235,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:06:21,0,0,0,0,0,0
+New Card Issue,0,Yes,2,No,0,32296,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:07:01,0,0,0,0,0,0
+New Card Issue,0,Yes,2,No,0,32228,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:07:41,0,0,0,0,0,0
+Manage card,0,Yes,2,No,0,32269,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:08:20,0,0,0,0,0,0
+Authorise/Delete Card Issue,0,Yes,2,No,0,32355,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:09:00,0,0,0,0,0,0
+Find Deposits,0,Yes,2,No,0,32261,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:09:40,0,0,0,0,0,0
+Find Deposits,0,Yes,2,No,0,32222,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:10:19,0,0,0,0,0,0
+AA Deposit - Fund,0,Yes,2,No,0,32220,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:10:59,0,0,0,0,0,0
+AA Deposit - Fund,0,Yes,2,No,0,32200,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:11:39,0,0,0,0,0,0
+AA Pay-out-Domestic,0,Yes,2,No,0,32292,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:12:18,0,0,0,0,0,0
+AA Pay-out-International,0,Yes,2,No,0,32230,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:12:58,0,0,0,0,0,0
+AA Partial Withdrawal,0,Yes,2,No,0,32339,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:13:38,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32368,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:14:17,0,0,0,0,0,0
+Find Facility,0,Yes,2,No,0,32177,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:14:57,0,0,0,0,0,0
+Find Facility,0,Yes,2,No,0,32298,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:15:37,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32161,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:16:17,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32292,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:16:56,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32194,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:17:36,0,0,0,0,0,0
+AA Principal Decrease,0,Yes,2,No,0,32230,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:18:15,0,0,0,0,0,0
+AA Bills Repayment,0,Yes,2,No,0,32200,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:18:55,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32264,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:19:35,0,0,0,0,0,0
+Find Loan,0,Yes,2,No,0,32257,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:20:14,0,0,0,0,0,0
+Find Loan,0,Yes,2,No,0,32349,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:20:54,0,0,0,0,0,0
+AA Disbursement Domestic,0,Yes,2,No,0,32255,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:21:34,0,0,0,0,0,0
+AA Disbursement Domestic,0,Yes,2,No,0,32335,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:22:13,0,0,0,0,0,0
+AA Disbursement International,0,Yes,2,No,0,32298,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:22:53,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32209,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:23:33,0,0,0,0,0,0
+AA Advance Repayment,0,Yes,2,No,0,32235,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:24:12,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32351,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:24:52,0,0,0,0,0,0
+AA Principal Decrease,0,Yes,2,No,0,32358,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:25:32,0,0,0,0,0,0
+AA Credit Arrangement,0,Yes,2,No,0,32268,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:26:12,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32277,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:26:51,0,0,0,0,0,0
+Find Arrangement,0,Yes,2,No,0,32373,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:27:31,0,0,0,0,0,0
+Find Arrangement,0,Yes,2,No,0,32216,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:28:11,0,0,0,0,0,0
+New Evidence,0,Yes,2,No,0,32244,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:28:51,0,0,0,0,0,0
+New Evidence,0,Yes,2,No,0,32288,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:29:31,0,0,0,0,0,0
+Vendor Setup,0,Yes,2,No,0,32200,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:30:10,0,0,0,0,0,0
+Vendor Setup,0,Yes,2,No,0,32308,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:30:50,0,0,0,0,0,0
+Vendor Setup,0,Yes,2,No,0,32340,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:31:29,0,0,0,0,0,0
+Reviewer Setup,0,Yes,2,No,0,32276,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:32:09,0,0,0,0,0,0
+Broker Setup,0,Yes,2,No,0,32213,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:32:49,0,0,0,0,0,0
+Capture Asset Details,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 01:33:30,0,0,0,0,0,0
+Capture Asset Details,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 01:33:36,0,0,0,0,0,0
+Authorise/Delete/View Asset Capture,0,Yes,2,No,0,32262,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:33:41,0,0,0,0,0,0
+Amend - Asset Capture details,0,Yes,2,No,0,32214,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:34:20,0,0,0,0,0,0
+New Contract - Named Asset,0,Yes,2,No,0,32235,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:35:00,0,0,0,0,0,0
+New Contract - Named Asset,0,Yes,2,No,0,32229,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:35:40,0,0,0,0,0,0
+Amend Unauthorised Contracts,0,Yes,2,No,0,32268,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:36:19,0,0,0,0,0,0
+Workflow Change / Modification of Contract,0,Yes,2,No,0,32349,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:36:59,0,0,0,0,0,0
+Sell Comm and Cr Cust Ac / Return Commodity,0,Yes,2,No,0,32266,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:37:39,0,0,0,0,0,0
+Authorise/Delete/View Contract,0,Yes,2,No,0,42684,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:38:18,0,0,0,0,0,0
+Input - Asset Delivery Details,0,Yes,2,No,0,32287,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:39:08,0,0,0,0,0,0
+Input - Asset Delivery Details,0,Yes,2,No,0,32268,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:39:48,0,0,0,0,0,0
+Amend - Asset Delivery Details,0,Yes,2,No,0,32163,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:40:28,0,0,0,0,0,0
+Authorise - Asset Delivery,0,Yes,2,No,0,32187,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:41:07,0,0,0,0,0,0
+Input - Commodity Sale,0,Yes,2,No,0,32315,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:41:47,0,0,0,0,0,0
+Amend - Commodity Sale Details,0,Yes,2,No,0,32192,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:42:26,0,0,0,0,0,0
+Authorise - Commodity Sale,0,Yes,2,No,0,32352,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:43:06,0,0,0,0,0,0
+Reverse - Commodity Sale,0,Yes,2,No,0,32238,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:43:46,0,0,0,0,0,0
+Input - Disbursement,0,Yes,2,No,0,32275,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:44:25,0,0,0,0,0,0
+Input - Disbursement,0,Yes,2,No,0,32360,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:45:05,0,0,0,0,0,0
+Authorise - Disbursement,0,Yes,2,No,0,32306,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:45:45,0,0,0,0,0,0
+Input - Asset Review,0,Yes,2,No,0,32341,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:46:24,0,0,0,0,0,0
+Input - Asset Review,0,Yes,2,No,0,32345,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:47:04,0,0,0,0,0,0
+Authorise/Delete/View - Asset Review,0,Yes,2,No,0,32384,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:47:44,0,0,0,0,0,0
+Input - Down Payment,0,Yes,2,No,0,32234,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:48:24,0,0,0,0,0,0
+Input - Down Payment,0,Yes,2,No,0,32229,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:49:03,0,0,0,0,0,0
+Input - Ijara down payment settlement,0,Yes,2,No,0,32215,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:49:43,0,0,0,0,0,0
+Authorise / Delete Down Payment,0,Yes,2,No,0,32335,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:50:22,0,0,0,0,0,0
+Reverse - Down Payment,0,Yes,2,No,0,32263,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:51:02,0,0,0,0,0,0
+Adhoc Payment to Vendor,0,Yes,2,No,0,32242,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:51:42,0,0,0,0,0,0
+Adhoc Payment to Vendor,0,Yes,2,No,0,32254,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:52:21,0,0,0,0,0,0
+Adhoc Payment to Vendor,0,Yes,2,No,0,32192,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:53:01,0,0,0,0,0,0
+Scheduled Payment to Vendor,0,Yes,2,No,0,32220,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:53:41,0,0,0,0,0,0
+Cost Payment - Adhoc,0,Yes,2,No,0,32193,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:54:20,0,0,0,0,0,0
+Cost Payment - Schedule,0,Yes,2,No,0,32200,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:55:00,0,0,0,0,0,0
+Retention Payment,0,Yes,2,No,0,32289,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:55:40,0,0,0,0,0,0
+Review Payment,0,Yes,2,No,0,32344,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:56:19,0,0,0,0,0,0
+Broker Payment,0,Yes,2,No,0,32221,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:56:59,0,0,0,0,0,0
+Rebate Payment - Adhoc,0,Yes,2,No,0,32329,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:57:39,0,0,0,0,0,0
+Authorise - Payment Transactions,0,Yes,2,No,0,32325,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:58:18,0,0,0,0,0,0
+Reverse - Payment Transactions,0,Yes,2,No,0,32237,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:58:58,0,0,0,0,0,0
+Vendor Payment,0,Yes,2,No,0,32343,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 01:59:38,0,0,0,0,0,0
+Vendor Payment,0,Yes,2,No,0,32207,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:00:18,0,0,0,0,0,0
+Vendor Payment External,0,Yes,2,No,0,32264,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:00:57,0,0,0,0,0,0
+Cost Payment,0,Yes,2,No,0,32256,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:01:37,0,0,0,0,0,0
+Cost Payment External,0,Yes,2,No,0,32195,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:02:17,0,0,0,0,0,0
+Broker Payment Activities,0,Yes,2,No,0,32356,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:02:56,0,0,0,0,0,0
+Authorise/View/Delete Transfers,0,Yes,2,No,0,32355,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:03:36,0,0,0,0,0,0
+Reverse Transfers,0,Yes,2,No,0,32191,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:04:16,0,0,0,0,0,0
+Vendor Payment by Cash,0,Yes,2,No,0,32295,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:04:55,0,0,0,0,0,0
+Vendor Payment by Cash,0,Yes,2,No,0,32324,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:05:35,0,0,0,0,0,0
+Cost Payment by Cash,0,Yes,2,No,0,32274,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:06:15,0,0,0,0,0,0
+Authorise/View/Delete Transfers,0,Yes,2,No,0,32256,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:06:54,0,0,0,0,0,0
+Input - Profit declaration,0,Yes,2,No,0,32270,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:07:34,0,0,0,0,0,0
+Input - Profit declaration,0,Yes,2,No,0,32346,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:08:14,0,0,0,0,0,0
+Amend - Profit declaration,0,Yes,2,No,0,32334,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:08:53,0,0,0,0,0,0
+Authorise/ Modify/ Delete Profit declaration,0,Yes,2,No,0,32236,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:09:33,0,0,0,0,0,0
+AA - Product Catalog,0,Yes,2,No,0,32217,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:10:13,0,0,0,0,0,0
+AA - Product Catalog,0,Yes,2,No,0,32160,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:10:52,0,0,0,0,0,0
+Find Account,0,Yes,2,No,0,32272,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:11:32,0,0,0,0,0,0
+Create New Till,0,Yes,2,No,0,32183,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:12:11,0,0,0,0,0,0
+Create New Till,0,Yes,2,No,0,32274,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:12:51,0,0,0,0,0,0
+Create New Till,0,Yes,2,No,0,32233,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:13:31,0,0,0,0,0,0
+Create New Till,0,Yes,2,No,0,32213,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:14:11,0,0,0,0,0,0
+Create New Till,0,Yes,2,No,0,32229,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:14:50,0,0,0,0,0,0
+Change Till User,0,Yes,2,No,0,32395,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:15:30,0,0,0,0,0,0
+Reopen Teller,0,Yes,2,No,0,32188,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:16:10,0,0,0,0,0,0
+Authorise/Delete Till Closure,0,Yes,2,No,0,32193,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:16:49,0,0,0,0,0,0
+Authorise/Delete Till Transfer,0,Yes,2,No,0,32296,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:17:29,0,0,0,0,0,0
+Authorise/Delete Till Transfer,0,Yes,2,No,0,32298,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:18:09,0,0,0,0,0,0
+Create/Amend Internal Account,0,Yes,2,No,0,32203,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:18:48,0,0,0,0,0,0
+Create/Amend Internal Account,0,Yes,2,No,0,32268,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:19:28,0,0,0,0,0,0
+Create/Amend Internal Account,0,Yes,2,No,0,32218,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:20:08,0,0,0,0,0,0
+Authorise/Delete Internal Accounts,0,Yes,2,No,0,32318,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:20:47,0,0,0,0,0,0
+Authorise/Delete TC Stock Transactions,0,Yes,2,No,0,32272,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:21:27,0,0,0,0,0,0
+Authorise/Delete Nostro Funding,0,Yes,2,No,0,32217,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:22:07,0,0,0,0,0,0
+Cash Position by Till,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 02:22:48,0,0,0,0,0,0
+Till Cash Entries Today,0,Yes,2,No,0,32299,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:22:52,0,0,0,0,0,0
+Till TC Issue Entries Today,0,Yes,2,No,0,32182,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:23:32,0,0,0,0,0,0
+Till TC Buy Entries Today,0,Yes,2,No,0,32231,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:24:12,0,0,0,0,0,0
+Cash deposit Local,0,Yes,2,No,0,32215,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:24:51,0,0,0,0,0,0
+Cash deposit Local,0,Yes,2,No,0,32283,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:25:31,0,0,0,0,0,0
+Cash deposit Local,0,Yes,2,No,0,32343,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:26:11,0,0,0,0,0,0
+Cash withdrawal Local,0,Yes,2,No,0,32260,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:26:50,0,0,0,0,0,0
+Cash withdrawal Local (Without Cheque),0,Yes,2,No,0,32227,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:27:30,0,0,0,0,0,0
+Cash Deposit Local - Foreign,0,Yes,2,No,0,32204,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:28:10,0,0,0,0,0,0
+Cash withdrawal Local- Foreign,0,Yes,2,No,0,32210,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:28:49,0,0,0,0,0,0
+Change Denomination,0,Yes,2,No,0,32327,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:29:29,0,0,0,0,0,0
+Cash deposit Foreign,0,Yes,2,No,0,32176,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:30:09,0,0,0,0,0,0
+Cash withdrawal Foreign,0,Yes,2,No,0,32238,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:30:48,0,0,0,0,0,0
+Authorise/Delete Teller Cash Transactions,0,Yes,2,No,0,32149,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:31:28,0,0,0,0,0,0
+Sell Fgn Ccy against Local Ccy,0,Yes,2,No,0,32275,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:32:08,0,0,0,0,0,0
+Sell Fgn Ccy against Local Ccy,0,Yes,2,No,0,32238,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:32:48,0,0,0,0,0,0
+Buy Fgn Ccy against Local Ccy,0,Yes,2,No,0,32277,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:33:27,0,0,0,0,0,0
+Foreign Currency Exchange,0,Yes,2,No,0,32295,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:34:07,0,0,0,0,0,0
+Authorise/Delete Currency Exchange,0,Yes,2,No,0,32271,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:34:47,0,0,0,0,0,0
+Receipt of TC Stock,0,Yes,2,No,0,32303,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:35:27,0,0,0,0,0,0
+Receipt of TC Stock,0,Yes,2,No,0,32233,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:36:06,0,0,0,0,0,0
+Receipt of Local currency TC Stock,0,Yes,2,No,0,32386,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:36:46,0,0,0,0,0,0
+Transfer of Stock - Other Branches,0,Yes,2,No,0,32255,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:37:26,0,0,0,0,0,0
+Transfer Local currency Stock -Other Branches,0,Yes,2,No,0,32352,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:38:05,0,0,0,0,0,0
+TC Tfr from Vault to Till - Same Branch,0,Yes,2,No,0,32351,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:38:45,0,0,0,0,0,0
+Nostro Funding for TC Issues,0,Yes,2,No,0,32258,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:39:25,0,0,0,0,0,0
+Sell TC's against Cash,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 02:40:00,0,0,0,0,0,0
+Sell TC's against Cash,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 02:40:00,0,0,0,0,0,0
+Sell TC's against Account,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 02:40:00,0,0,0,0,0,0
+Buy TC's against Cash,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 02:40:00,0,0,0,0,0,0
+Buy TC's against Account,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 02:40:00,0,0,0,0,0,0
+Sell Local Currency TCs against Cash,0,Yes,2,No,0,32260,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:40:05,0,0,0,0,0,0
+Sell Local Currency TCs against Account,0,Yes,2,No,0,32315,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:40:44,0,0,0,0,0,0
+Buy Local Currency TCs against Cash,0,Yes,2,No,0,32258,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:41:24,0,0,0,0,0,0
+Buy Local Currency TCs Against Account,0,Yes,2,No,0,32284,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:42:04,0,0,0,0,0,0
+Authorise/Delete TC Transactions,0,Yes,2,No,0,32280,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:42:43,0,0,0,0,0,0
+Issue LCY Drafts against Cash,0,Yes,2,No,0,32259,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:43:23,0,0,0,0,0,0
+Issue LCY Drafts against Cash,0,Yes,2,No,0,32313,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:44:03,0,0,0,0,0,0
+Issue LCY Drafts against Account,0,Yes,2,No,0,32257,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:44:42,0,0,0,0,0,0
+Payment of LCY Drafts by Cash,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 02:45:24,0,0,0,0,0,0
+Payment of LCY Drafts to Account,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 02:45:30,0,0,0,0,0,0
+Authorise/Delete Draft Transactions,0,Yes,2,No,0,32239,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:45:34,0,0,0,0,0,0
+Account to Account Transfer,0,Yes,2,No,0,32262,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:46:14,0,0,0,0,0,0
+Account to Account Transfer,0,Yes,2,No,0,32255,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:46:53,0,0,0,0,0,0
+Authorise/Delete Account Transfer,0,Yes,2,No,0,32374,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:47:33,0,0,0,0,0,0
+Update Account Statement,0,Yes,2,No,0,32165,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:48:13,0,0,0,0,0,0
+Update Account Statement,0,Yes,2,No,0,32315,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:48:52,0,0,0,0,0,0
+Print Passbook,0,Yes,2,No,0,32256,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:49:32,0,0,0,0,0,0
+LCY Till Transfer,0,Yes,2,No,0,32210,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:50:12,0,0,0,0,0,0
+LCY Till Transfer,0,Yes,2,No,0,32262,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:50:51,0,0,0,0,0,0
+FCY Till Transfer,0,Yes,2,No,0,32323,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:51:31,0,0,0,0,0,0
+Till to Vault,0,Yes,2,No,0,32274,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:52:11,0,0,0,0,0,0
+Vault to Till,0,Yes,2,No,0,32287,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:52:50,0,0,0,0,0,0
+Initiate Till Closure,0,Yes,2,No,0,32183,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:53:30,0,0,0,0,0,0
+Initiate Till Closure,0,Yes,2,No,0,32217,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:54:10,0,0,0,0,0,0
+Cash Position by Till,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 02:54:51,0,0,0,0,0,0
+Local Draft Enquiries,0,Yes,2,No,0,32178,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:54:55,0,0,0,0,0,0
+Till Cash Entries Today,0,Yes,2,No,0,32341,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:55:35,0,0,0,0,0,0
+Till TC Issue Entries Today,0,Yes,2,No,0,32342,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:56:14,0,0,0,0,0,0
+Till TC Buy Entries Today,0,Yes,2,No,0,32238,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:56:54,0,0,0,0,0,0
+Find Account,0,Yes,2,No,0,32269,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:57:34,0,0,0,0,0,0
+Find Account,0,Yes,2,No,0,32321,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:58:13,0,0,0,0,0,0
+Cash and Cheque,0,Yes,2,No,0,32180,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:58:53,0,0,0,0,0,0
+Multi Till Operations,0,Yes,2,No,0,32257,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 02:59:33,0,0,0,0,0,0
+Multi Till Operations - Lcy,0,Yes,2,No,0,32290,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:00:13,0,0,0,0,0,0
+Bill Payment,0,Yes,2,No,0,32232,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:00:53,0,0,0,0,0,0
+Reverse TFS Transaction,0,Yes,2,No,0,32234,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:01:32,0,0,0,0,0,0
+Reverse TFS Transaction - History,0,Yes,2,No,0,32300,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:02:12,0,0,0,0,0,0
+Authorise/Delete TFS Transactions,0,Yes,2,No,0,32312,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:02:52,0,0,0,0,0,0
+Draft Issue in Local Currency,0,Yes,2,No,0,32298,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:03:31,0,0,0,0,0,0
+Draft Issue in Local Currency,0,Yes,2,No,0,32173,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:04:11,0,0,0,0,0,0
+Draft Issue in Foreign Currency,0,Yes,2,No,0,32337,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:04:51,0,0,0,0,0,0
+Transfer between Accounts,0,Yes,2,No,0,32262,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:05:30,0,0,0,0,0,0
+Authorise/Delete Draft/Acct Trfr,0,Yes,2,No,0,32294,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:06:10,0,0,0,0,0,0
+Transact - Mirror TR Account,0,Yes,2,No,0,32243,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:06:50,0,0,0,0,0,0
+Pay/Ret LCY Drafts in Hold recd thro Clearing,0,Yes,2,No,0,32272,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:07:29,0,0,0,0,0,0
+Stop Payment for Drafts,0,Yes,2,No,0,32177,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:08:09,0,0,0,0,0,0
+Authorise/Delete Stop payment of drafts,0,Yes,2,No,0,32257,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:08:49,0,0,0,0,0,0
+Revoke Stop Payment of Draft,0,Yes,2,No,0,32253,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:09:28,0,0,0,0,0,0
+Authorise/Delete Revoke Stop Payment of Draft,0,Yes,2,No,0,32241,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:10:08,0,0,0,0,0,0
+Cancellation of LCY Drafts,0,Yes,2,No,0,32264,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:10:48,0,0,0,0,0,0
+Authorise/Delete Cancellation of LCY Drafts,0,Yes,2,No,0,32223,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:11:27,0,0,0,0,0,0
+View Debit/Credit Advices,0,Yes,2,No,0,32275,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:12:07,0,0,0,0,0,0
+Local Draft Enquiries,0,Yes,2,No,0,32324,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:12:47,0,0,0,0,0,0
+Local Draft Enquiries,0,Yes,2,No,0,32190,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:13:26,0,0,0,0,0,0
+Receipt of Stock,0,Yes,2,No,0,32294,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:14:06,0,0,0,0,0,0
+Receipt of Stock,0,Yes,2,No,0,32226,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:14:45,0,0,0,0,0,0
+Authorise / Delete Receipt of Stock,0,Yes,2,No,0,32416,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:15:25,0,0,0,0,0,0
+Unauthorised Cheque Issue,0,Yes,2,No,0,32206,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:16:05,0,0,0,0,0,0
+Authorise / Delete Issue of Cheques,0,Yes,2,No,0,32232,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:16:45,0,0,0,0,0,0
+Stop Payment of Cheques,0,Yes,2,No,0,32243,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:17:24,0,0,0,0,0,0
+Authorise/Delete Stop Payment of Cheque,0,Yes,2,No,0,32289,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:18:04,0,0,0,0,0,0
+Revoke Stop Payment of Cheque,0,Yes,2,No,0,32199,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:18:44,0,0,0,0,0,0
+Authorise/Delete Revoke Payment Stop,0,Yes,2,No,0,32295,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:19:23,0,0,0,0,0,0
+Send Stop Payment Status Msg-MT112,0,Yes,2,No,0,32328,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:20:03,0,0,0,0,0,0
+Authorise/Delete Status Update-MT112,0,Yes,2,No,0,32262,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:20:42,0,0,0,0,0,0
+Input Cheque Return,0,Yes,2,No,0,32293,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:21:22,0,0,0,0,0,0
+Cheque Return Amend/Delete,0,Yes,2,No,0,32318,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:22:02,0,0,0,0,0,0
+Authorise Cheque Return,0,Yes,2,No,0,32284,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:22:41,0,0,0,0,0,0
+List of Cheque Return,0,Yes,2,No,0,32189,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:23:21,0,0,0,0,0,0
+New Card Issue,0,Yes,2,No,0,32343,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:24:01,0,0,0,0,0,0
+New Card Issue,0,Yes,2,No,0,32242,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:24:40,0,0,0,0,0,0
+Manage card,0,Yes,2,No,0,32338,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:25:20,0,0,0,0,0,0
+Authorise/Delete Card Issue,0,Yes,2,No,0,32203,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:26:00,0,0,0,0,0,0
+Deposit Local Cheques - Direct Clearing,0,Yes,2,No,0,32173,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:26:40,0,0,0,0,0,0
+Deposit Local Cheques - Direct Clearing,0,Yes,2,No,0,32326,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:27:19,0,0,0,0,0,0
+Deposit Local Cheques - Direct Clearing,0,Yes,2,No,0,32278,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:27:59,0,0,0,0,0,0
+Deposit Local Cheques - Indirect Clearing,0,Yes,2,No,0,32261,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:28:39,0,0,0,0,0,0
+Authorise/Delete Outward Clearing,0,Yes,2,No,0,32353,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:29:18,0,0,0,0,0,0
+Authorise/Delete Cheque Collection,0,Yes,2,No,0,32176,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:29:58,0,0,0,0,0,0
+Change Outward Clearing Details,0,Yes,2,No,0,32141,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:30:37,0,0,0,0,0,0
+Settle Outward Clearing,0,Yes,2,No,0,32240,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:31:17,0,0,0,0,0,0
+Settle Outward Clearing Return,0,Yes,2,No,0,32231,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:31:57,0,0,0,0,0,0
+Cheques - German Cheque Processing,0,Yes,2,No,0,32244,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:32:36,0,0,0,0,0,0
+Cheques - Systac Cheque Processing,0,Yes,2,No,0,32392,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:33:16,0,0,0,0,0,0
+Cheques - Srilanka Cheque Processing,0,Yes,2,No,0,32273,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:33:56,0,0,0,0,0,0
+Cheques - Tunisia Cheque Processing,0,Yes,2,No,0,32264,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:34:36,0,0,0,0,0,0
+Cheques - Tunisia Cheque Clearing,0,Yes,2,No,0,32293,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:35:16,0,0,0,0,0,0
+Cheques - Tunisia Cheque Clearing Represent,0,Yes,2,No,0,32307,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:35:55,0,0,0,0,0,0
+Deposit Outstation Cheques,0,Yes,2,No,0,32167,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:36:35,0,0,0,0,0,0
+Deposit Outstation Cheques,0,Yes,2,No,0,32202,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:37:15,0,0,0,0,0,0
+Authorise/Delete Outstation Cheques,0,Yes,2,No,0,32284,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:37:54,0,0,0,0,0,0
+Pay / Return Outstation Cheques,0,Yes,2,No,0,32253,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:38:34,0,0,0,0,0,0
+Authorise/Delete Pay/Return Outstation Chqs,0,Yes,2,No,0,32217,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:39:13,0,0,0,0,0,0
+Settle Outstation Cheque,0,Yes,2,No,0,32331,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:39:53,0,0,0,0,0,0
+Settle Outstation Cheque Returned,0,Yes,2,No,0,32233,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:40:33,0,0,0,0,0,0
+Deposit Foreign Cheques,0,Yes,2,No,0,32313,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:41:12,0,0,0,0,0,0
+Deposit Foreign Cheques,0,Yes,2,No,0,32301,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:41:52,0,0,0,0,0,0
+Authorise/Delete Foreign Cheques,0,Yes,2,No,0,32302,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:42:32,0,0,0,0,0,0
+Authorise/Delete Pay/Return Foreign Chqs,0,Yes,2,No,0,32187,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:43:11,0,0,0,0,0,0
+Settle Foreign Cheque Collection,0,Yes,2,No,0,32173,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:43:51,0,0,0,0,0,0
+Settle Foreign Cheque Returned,0,Yes,2,No,0,32275,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:44:31,0,0,0,0,0,0
+Unauthorised Cheque Collection,0,Yes,2,No,0,32207,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:45:10,0,0,0,0,0,0
+Unauthorised Cheque Collection,0,Yes,2,No,0,32299,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:45:50,0,0,0,0,0,0
+Authorise/Delete Settlements,0,Yes,2,No,0,32223,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:46:29,0,0,0,0,0,0
+Authorise/Delete Settlements,0,Yes,2,No,0,32251,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:47:09,0,0,0,0,0,0
+Cheque Collection for Cheque Change,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 03:47:50,0,0,0,0,0,0
+Unrealised Outstation Cheques,0,Yes,2,No,0,32211,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:47:55,0,0,0,0,0,0
+Unrealised Foreign Cheques,0,Yes,2,No,0,32262,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:48:34,0,0,0,0,0,0
+Cheque Collection Details,0,Yes,2,No,0,32280,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:49:14,0,0,0,0,0,0
+Find Deposit,0,Yes,2,No,0,32277,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:49:54,0,0,0,0,0,0
+AA Deposit - Fund,0,Yes,2,No,0,32289,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:50:33,0,0,0,0,0,0
+AA Deposit - Fund,0,Yes,2,No,0,32354,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:51:13,0,0,0,0,0,0
+AA Deposit - Fund,0,Yes,2,No,0,32225,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:51:53,0,0,0,0,0,0
+AA Pay-out-Domestic,0,Yes,2,No,0,32290,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:52:32,0,0,0,0,0,0
+AA Pay-out-International,0,Yes,2,No,0,32166,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:53:12,0,0,0,0,0,0
+AA Partial Withdrawal,0,Yes,2,No,0,32230,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:53:52,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32266,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:54:32,0,0,0,0,0,0
+AA Deposit - Fund(LCY),0,Yes,2,No,0,32177,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:55:11,0,0,0,0,0,0
+AA Deposit - Fund(LCY),0,Yes,2,No,0,32229,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:55:51,0,0,0,0,0,0
+AA Deposit - Fund(FCY),0,Yes,2,No,0,32196,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:56:31,0,0,0,0,0,0
+AA Pay-out,0,Yes,2,No,0,32231,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:57:10,0,0,0,0,0,0
+AA Partial Withdrawal,0,Yes,2,No,0,32184,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:57:50,0,0,0,0,0,0
+Authorise/Delete Arrangements (TT),0,Yes,2,No,0,32428,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:58:29,0,0,0,0,0,0
+Find Facility,0,Yes,2,No,0,32216,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:59:09,0,0,0,0,0,0
+Find Drawing,0,Yes,2,No,0,32269,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 03:59:49,0,0,0,0,0,0
+Find Finance,0,Yes,2,No,0,32240,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:00:29,0,0,0,0,0,0
+Facility Repayment,0,Yes,2,No,0,32226,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:01:08,0,0,0,0,0,0
+Facility Repayment,0,Yes,2,No,0,32241,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:01:48,0,0,0,0,0,0
+Facility Pay-off,0,Yes,2,No,0,32199,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:02:28,0,0,0,0,0,0
+Facility Principal Decrease,0,Yes,2,No,0,32373,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:03:07,0,0,0,0,0,0
+Facility Bills Repayment,0,Yes,2,No,0,32222,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:03:47,0,0,0,0,0,0
+Unauthorised Funds Transfer,0,Yes,2,No,0,32213,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:04:27,0,0,0,0,0,0
+Authorise/Delete Arrangements (FT),0,Yes,2,No,0,32201,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:05:06,0,0,0,0,0,0
+AA Disbursement,0,Yes,2,No,0,32218,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:05:47,0,0,0,0,0,0
+AA Disbursement,0,Yes,2,No,0,32212,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:06:26,0,0,0,0,0,0
+AA Disbursement,0,Yes,2,No,0,32156,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:07:06,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32252,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:07:45,0,0,0,0,0,0
+AA - Respite Payment,0,Yes,2,No,0,32209,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:08:25,0,0,0,0,0,0
+AA - Compression payment,0,Yes,2,No,0,32284,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:09:05,0,0,0,0,0,0
+AA Advance Repayment,0,Yes,2,No,0,32216,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:09:44,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32281,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:10:24,0,0,0,0,0,0
+AA Principal Decrease,0,Yes,2,No,0,32212,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:11:04,0,0,0,0,0,0
+AA Credit Arrangement,0,Yes,2,No,0,32243,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:11:43,0,0,0,0,0,0
+AA - Profit Settlement,0,Yes,2,No,0,32285,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:12:23,0,0,0,0,0,0
+Unauthorised Funds Transfer,0,Yes,2,No,0,32303,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:13:02,0,0,0,0,0,0
+Authorise/Delete Arrangements (FT),0,Yes,2,No,0,32204,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:13:42,0,0,0,0,0,0
+AA Disbursement,0,Yes,2,No,0,32279,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:14:22,0,0,0,0,0,0
+AA Disbursement,0,Yes,2,No,0,32336,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:15:01,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32321,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:15:41,0,0,0,0,0,0
+AA Advance Repayment,0,Yes,2,No,0,32295,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:16:21,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32212,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:17:00,0,0,0,0,0,0
+AA Credit Arrangement,0,Yes,2,No,0,32410,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:17:40,0,0,0,0,0,0
+Unauthorised Teller Transactions,0,Yes,2,No,0,32277,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:18:20,0,0,0,0,0,0
+Authorise/Delete Arrangements (TT)S,0,Yes,2,No,0,32191,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:19:00,0,0,0,0,0,0
+Set up Cash Pool,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 04:19:41,0,0,0,0,0,0
+Unauthorised Cash Pool,0,Yes,2,No,0,32204,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:19:45,0,0,0,0,0,0
+Authorise/Delete Cash Pool,0,Yes,2,No,0,32237,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:20:25,0,0,0,0,0,0
+Input DD Mandate,0,Yes,2,No,0,32386,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:21:04,0,0,0,0,0,0
+Input DD Mandate,0,Yes,2,No,0,32263,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:21:44,0,0,0,0,0,0
+Unauthorised DD Mandate,0,Yes,2,No,0,32312,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:22:24,0,0,0,0,0,0
+Authorise/Delete DD Mandate,0,Yes,2,No,0,32299,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:23:04,0,0,0,0,0,0
+Find Bundle Accounts,0,Yes,2,No,0,32201,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:23:43,0,0,0,0,0,0
+Pricing Arrangements,0,Yes,2,No,0,32217,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:24:23,0,0,0,0,0,0
+Find Agents,0,Yes,2,No,0,32352,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:25:03,0,0,0,0,0,0
+Agent Commission Payout,0,Yes,2,No,0,32216,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:25:42,0,0,0,0,0,0
+Agent Commission Payout,0,Yes,2,No,0,32339,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:26:22,0,0,0,0,0,0
+Agent Commission Payout,0,Yes,2,No,0,32308,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:27:02,0,0,0,0,0,0
+Agent Commission Payin,0,Yes,2,No,0,32345,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:27:41,0,0,0,0,0,0
+Find Reward Schemes,0,Yes,2,No,0,32311,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:28:21,0,0,0,0,0,0
+Unauthorized AAA records,0,Yes,2,No,0,32284,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:29:01,0,0,0,0,0,0
+List of Collection Items,0,Yes,2,No,0,32278,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:29:40,0,0,0,0,0,0
+List of Collection Items,0,Yes,2,No,0,32243,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:30:20,0,0,0,0,0,0
+Manual Linking of Pool ID,0,Yes,2,No,0,32299,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:31:00,0,0,0,0,0,0
+Manual Linking of Pool ID,0,Yes,2,No,0,32236,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:31:39,0,0,0,0,0,0
+Manual Linking of Pool ID,0,Yes,2,No,0,32352,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:32:19,0,0,0,0,0,0
+Authorise/ Delete/ View Pool ID Link,0,Yes,2,No,0,32327,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:32:59,0,0,0,0,0,0
+Input Simulation,0,Yes,2,No,0,32337,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:33:38,0,0,0,0,0,0
+Input Simulation - Reverse Distribution,0,Yes,2,No,0,32232,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:34:18,0,0,0,0,0,0
+Input Simulation - Projection,0,Yes,2,No,0,32212,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:34:58,0,0,0,0,0,0
+Authorise/ Delete/ View Simulation,0,Yes,2,No,0,32272,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:35:37,0,0,0,0,0,0
+Input - Target Update,0,Yes,2,No,0,32299,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:36:17,0,0,0,0,0,0
+Input Distribution,0,Yes,2,No,0,32188,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:36:57,0,0,0,0,0,0
+Authorise/ Delete/ View Distribution,0,Yes,2,No,0,32220,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:37:36,0,0,0,0,0,0
+Input - Reverse Distribution,0,Yes,2,No,0,32295,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:38:17,0,0,0,0,0,0
+Authorise/ Delete/ View Reverse Distribution,0,Yes,2,No,0,32143,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:38:56,0,0,0,0,0,0
+Pool Movement Tracker,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 04:39:38,0,0,0,0,0,0
+Special HIBA Payment Summary,0,Yes,2,No,0,32218,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:39:42,0,0,0,0,0,0
+Summary of Special HIBA deposits report,0,Yes,2,No,0,32238,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:40:22,0,0,0,0,0,0
+Summary of Special HIBA deposits report,0,Yes,2,No,0,32343,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:41:01,0,0,0,0,0,0
+Start service - Special HIBA - Deposits,0,Yes,2,No,0,32347,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:41:41,0,0,0,0,0,0
+Summary of Special HIBA accounts report,0,Yes,2,No,0,32400,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:42:21,0,0,0,0,0,0
+Start service - Special HIBA - Accounts,0,Yes,2,No,0,32334,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:43:00,0,0,0,0,0,0
+Summary of pool Income PL Details,0,Yes,2,No,0,32207,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:43:40,0,0,0,0,0,0
+Start service - Pool Income PL Details,0,Yes,2,No,0,32337,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:44:20,0,0,0,0,0,0
+Summary of pool Expense PL Details,0,Yes,2,No,0,32250,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:44:59,0,0,0,0,0,0
+Start service - Pool Expense PL Details,0,Yes,2,No,0,32204,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:45:39,0,0,0,0,0,0
+Summary of Income/Expense Categ Entry Details,0,Yes,2,No,0,32230,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:46:19,0,0,0,0,0,0
+Start service - Income/Expense Categ Entry Details,0,Yes,2,No,0,32269,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:46:58,0,0,0,0,0,0
+Input - PDS Simulation Summary Report,0,Yes,2,No,0,32280,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:47:38,0,0,0,0,0,0
+Input - PDS Simulation Summary Report,0,Yes,2,No,0,32383,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:48:17,0,0,0,0,0,0
+Start Service-PDS Simulation Summary,0,Yes,2,No,0,32297,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:48:57,0,0,0,0,0,0
+Input - PDS Distribution Summary Report,0,Yes,2,No,0,32190,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:49:37,0,0,0,0,0,0
+Input - PDS Distribution Summary Report,0,Yes,2,No,0,32321,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:50:17,0,0,0,0,0,0
+Start Service - PDS Distribution Service,0,Yes,2,No,0,32315,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:50:56,0,0,0,0,0,0
+Setup Limit,0,Yes,2,No,0,32321,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:51:36,0,0,0,0,0,0
+Setup Limit,0,Yes,2,No,0,32297,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:52:16,0,0,0,0,0,0
+Setup Limit,0,Yes,2,No,0,32254,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:52:55,0,0,0,0,0,0
+Setup Limit,0,Yes,2,No,0,32312,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:53:35,0,0,0,0,0,0
+Create Secured Limit,0,Yes,2,No,0,32252,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:54:14,0,0,0,0,0,0
+Create Secured Limit,0,Yes,2,No,0,32290,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:54:54,0,0,0,0,0,0
+Create Unsecured Limit,0,Yes,2,No,0,32318,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:55:34,0,0,0,0,0,0
+Modify Rejected Limit,0,Yes,2,No,0,32167,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:56:14,0,0,0,0,0,0
+Maintain/Reverse Limit,0,Yes,2,No,0,32281,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:56:53,0,0,0,0,0,0
+Change Customer Liability,0,Yes,2,No,0,32266,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:57:33,0,0,0,0,0,0
+Sub Allocate Limit,0,Yes,2,No,0,32281,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:58:12,0,0,0,0,0,0
+Authorise/Delete/Reject Limit,0,Yes,2,No,0,32312,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:58:52,0,0,0,0,0,0
+Authorise/Delete Limit Sub Allocation,0,Yes,2,No,0,32314,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 04:59:32,0,0,0,0,0,0
+Create Limit Group,0,Yes,2,No,0,32234,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:00:11,0,0,0,0,0,0
+Create Limit Group,0,Yes,2,No,0,32188,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:00:51,0,0,0,0,0,0
+Define Limit Priority,0,Yes,2,No,0,32224,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:01:31,0,0,0,0,0,0
+Country & Country Group Limit,0,Yes,2,No,0,32186,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:02:10,0,0,0,0,0,0
+Country & Country Group Limit,0,Yes,2,No,0,32237,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:02:50,0,0,0,0,0,0
+Industry & Industry Group Limit,0,Yes,2,No,0,32288,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:03:30,0,0,0,0,0,0
+Currency Limits,0,Yes,2,No,0,32358,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:04:09,0,0,0,0,0,0
+Collateral Link,0,Yes,2,No,0,32250,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:04:49,0,0,0,0,0,0
+Collateral Link,0,Yes,2,No,0,32309,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:05:29,0,0,0,0,0,0
+Collateral,0,Yes,2,No,0,32345,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:06:08,0,0,0,0,0,0
+Authorise/Delete Collateral Right,0,Yes,2,No,0,32319,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:06:48,0,0,0,0,0,0
+Authorise/Delete Collateral,0,Yes,2,No,0,32376,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:07:28,0,0,0,0,0,0
+View Collateral Deficit Details,0,Yes,2,No,0,32162,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:08:08,0,0,0,0,0,0
+View Collateral Defict Alerts,0,Yes,2,No,0,32210,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:08:47,0,0,0,0,0,0
+View Collateral Allocation Details,0,Yes,2,No,0,32191,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:09:27,0,0,0,0,0,0
+View Collateral Asset Details,0,Yes,2,No,0,32278,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:10:06,0,0,0,0,0,0
+View Excess Concentration Cap Details,0,Yes,2,No,0,32313,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:10:47,0,0,0,0,0,0
+View Collateral Management Alert,0,Yes,2,No,0,32307,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:11:26,0,0,0,0,0,0
+Create Collateral Account,0,Yes,2,No,0,32292,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:12:06,0,0,0,0,0,0
+Create Collateral Account,0,Yes,2,No,0,32238,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:12:46,0,0,0,0,0,0
+Authorise/Delete Collateral Accounts,0,Yes,2,No,0,32265,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:13:25,0,0,0,0,0,0
+Create Collateral Pool,0,Yes,2,No,0,32306,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:14:05,0,0,0,0,0,0
+Authorise/Delete Collateral Pools,0,Yes,2,No,0,32247,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:14:45,0,0,0,0,0,0
+Amend Collateral Accounts,0,Yes,2,No,0,32398,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:15:24,0,0,0,0,0,0
+Amend Collateral Accounts,0,Yes,2,No,0,32314,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:16:04,0,0,0,0,0,0
+Amend Collateral Accounts,0,Yes,2,No,0,32327,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:16:44,0,0,0,0,0,0
+Collateral Accounts available for Pool,0,Yes,2,No,0,32392,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:17:23,0,0,0,0,0,0
+Review/Expiring/Expired Collateral Accounts,0,Yes,2,No,0,32299,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:18:03,0,0,0,0,0,0
+Overview of Collateral Pools,0,Yes,2,No,0,32280,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:18:43,0,0,0,0,0,0
+Overview of Collateral Pools,0,Yes,2,No,0,32336,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:19:23,0,0,0,0,0,0
+Review/Expiring/Expired Collateral Pool,0,Yes,2,No,0,32237,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:20:02,0,0,0,0,0,0
+Pre Advice of Import LCs,0,Yes,2,No,0,32301,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:20:42,0,0,0,0,0,0
+Pre Advice of Import LCs,0,Yes,2,No,0,32274,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:21:22,0,0,0,0,0,0
+Pre Advice of Import LCs,0,Yes,2,No,0,32232,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:22:01,0,0,0,0,0,0
+Pre Advice of Import LCs,0,Yes,2,No,0,32294,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:22:41,0,0,0,0,0,0
+Pre Advice of Import LCs,0,Yes,2,No,0,32278,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:23:21,0,0,0,0,0,0
+Pre Advice to Issue/List of Preadvised LCs,0,Yes,2,No,0,32181,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:24:00,0,0,0,0,0,0
+Issue of Sight Payment LCs,0,Yes,2,No,0,32370,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:24:40,0,0,0,0,0,0
+Issue of Usance LCs,0,Yes,2,No,0,32245,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:25:20,0,0,0,0,0,0
+Issue of Negotiation LCs,0,Yes,2,No,0,32335,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:25:59,0,0,0,0,0,0
+Issue of Mixed Payment LCs,0,Yes,2,No,0,32235,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:26:39,0,0,0,0,0,0
+Internet Requests,0,Yes,2,No,0,32257,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:27:19,0,0,0,0,0,0
+Take/Reduce Margin,0,Yes,2,No,0,32160,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:27:58,0,0,0,0,0,0
+Take/Reduce Margin,0,Yes,2,No,0,32400,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:28:38,0,0,0,0,0,0
+Release Margin,0,Yes,2,No,0,32212,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:29:18,0,0,0,0,0,0
+Internal Amendment,0,Yes,2,No,0,32368,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:29:57,0,0,0,0,0,0
+External Amendment,0,Yes,2,No,0,32161,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:30:37,0,0,0,0,0,0
+Amendment seeking Benef's Consent,0,Yes,2,No,0,32250,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:31:14,0,0,0,0,0,0
+Internet Requests - LC Amendments,0,Yes,2,No,0,32262,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:31:53,0,0,0,0,0,0
+Approve/Reject Amendment of Import LC,0,Yes,2,No,0,32321,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:32:33,0,0,0,0,0,0
+Reversal/Cancellation of Import LC,0,Yes,2,No,0,32190,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:33:13,0,0,0,0,0,0
+Register/Upload Documents,0,Yes,2,No,0,32233,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:33:52,0,0,0,0,0,0
+Register/Upload Documents,0,Yes,2,No,0,32267,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:34:32,0,0,0,0,0,0
+Capture/Check Documents,0,Yes,2,No,0,32286,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:35:11,0,0,0,0,0,0
+Internet Pending Drawings,0,Yes,2,No,0,32361,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:35:51,0,0,0,0,0,0
+Drawings Under Shipping Guarantee,0,Yes,2,No,0,32406,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:36:31,0,0,0,0,0,0
+Drawings Under Shipping Guarantee,0,Yes,2,No,0,32316,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:37:10,0,0,0,0,0,0
+Sight Payment under Import LC,0,Yes,2,No,0,32363,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:37:50,0,0,0,0,0,0
+Acceptance of Documents,0,Yes,2,No,0,32296,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:38:30,0,0,0,0,0,0
+Drawings Under Mixed Payment,0,Yes,2,No,0,32467,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:39:10,0,0,0,0,0,0
+Payment/Acceptance under Standby LC,0,Yes,2,No,0,32346,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:39:49,0,0,0,0,0,0
+Online Maturity of Acceptances(Imports),0,Yes,2,No,0,32294,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:40:29,0,0,0,0,0,0
+Amendment/Online Settlement of Mixed Payments,0,Yes,2,No,0,32237,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:41:09,0,0,0,0,0,0
+Amendment to Paid Drawings,0,Yes,2,No,0,32283,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:41:48,0,0,0,0,0,0
+Sight Payment under Import LC,0,Yes,2,No,0,32322,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:42:28,0,0,0,0,0,0
+Sight Payment under Import LC,0,Yes,2,No,0,32233,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:43:08,0,0,0,0,0,0
+Create Loan for Import Payment,0,Yes,2,No,0,32381,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:43:48,0,0,0,0,0,0
+Discounting of Usance Bills(Imports),0,Yes,2,No,0,32269,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:44:28,0,0,0,0,0,0
+Discounting of Usance Bills(Imports),0,Yes,2,No,0,32192,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:45:07,0,0,0,0,0,0
+Amendment to Usance Discounting,0,Yes,2,No,0,32185,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:45:47,0,0,0,0,0,0
+Discounting for Mixed Payments(Imports),0,Yes,2,No,0,32221,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:46:26,0,0,0,0,0,0
+Amendment for Mixed Payment Discounting,0,Yes,2,No,0,32238,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:47:06,0,0,0,0,0,0
+Documents Pending for Applicant Approval,0,Yes,2,No,0,32319,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:47:46,0,0,0,0,0,0
+Documents Pending for Applicant Approval,0,Yes,2,No,0,32326,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:48:25,0,0,0,0,0,0
+Reject Documents under Import LC,0,Yes,2,No,0,32323,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:49:05,0,0,0,0,0,0
+Handling of Rejected Documents(Imports),0,Yes,2,No,0,32258,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:49:45,0,0,0,0,0,0
+Release Document Under Trust,0,Yes,2,No,0,32220,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:50:24,0,0,0,0,0,0
+Release Document Under Trust,0,Yes,2,No,0,32374,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:51:04,0,0,0,0,0,0
+Pay/Reject/Accept Doc Released Under Trust,0,Yes,2,No,0,32393,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:51:44,0,0,0,0,0,0
+Online Maturity of Accepted Documents,0,Yes,2,No,0,32400,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:52:23,0,0,0,0,0,0
+Final Rejection of Documents,0,Yes,2,No,0,32217,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:53:03,0,0,0,0,0,0
+Import Inward Swift Messages,0,Yes,2,No,0,32180,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:53:43,0,0,0,0,0,0
+Import Inward Swift Messages,0,Yes,2,No,0,32221,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:54:22,0,0,0,0,0,0
+Acknowledgement Messages,0,Yes,2,No,0,32161,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:55:02,0,0,0,0,0,0
+Pre-Advice,0,Yes,2,No,0,32201,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:55:41,0,0,0,0,0,0
+Pre-Advice,0,Yes,2,No,0,32313,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:56:21,0,0,0,0,0,0
+Pre-Advice,0,Yes,2,No,0,32219,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:57:01,0,0,0,0,0,0
+PreAdvice to Advice/List of Preadvised LCs,0,Yes,2,No,0,32199,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:57:40,0,0,0,0,0,0
+Advise/Register Sight Payment LCs,0,Yes,2,No,0,32221,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:58:20,0,0,0,0,0,0
+Advise/Register Usance LCs,0,Yes,2,No,0,32250,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:59:00,0,0,0,0,0,0
+Advise/Register Negotiation LCs,0,Yes,2,No,0,32198,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 05:59:39,0,0,0,0,0,0
+Advise/Register Mixed Payment LCs,0,Yes,2,No,0,32200,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:00:19,0,0,0,0,0,0
+List of Transferable Export LCs,0,Yes,2,No,0,32225,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:00:58,0,0,0,0,0,0
+List of Transferable Export LCs,0,Yes,2,No,0,32308,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:01:38,0,0,0,0,0,0
+Transfer of Export LC,0,Yes,2,No,0,32372,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:02:18,0,0,0,0,0,0
+Internal Amendment,0,Yes,2,No,0,32259,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:02:58,0,0,0,0,0,0
+Internal Amendment,0,Yes,2,No,0,32286,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:03:37,0,0,0,0,0,0
+External Amendment,0,Yes,2,No,0,32297,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:04:17,0,0,0,0,0,0
+Amendment seeking Benef's Consent,0,Yes,2,No,0,32172,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:04:53,0,0,0,0,0,0
+Internet Requests - LC Amendments,0,Yes,2,No,0,32232,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:05:33,0,0,0,0,0,0
+Approve/Reject Amendment of Export LC,0,Yes,2,No,0,32273,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:06:13,0,0,0,0,0,0
+Reversal/Cancellation of Export LC,0,Yes,2,No,0,32205,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:06:52,0,0,0,0,0,0
+Register Documents,0,Yes,2,No,0,32360,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:07:32,0,0,0,0,0,0
+Register Documents,0,Yes,2,No,0,32218,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:08:12,0,0,0,0,0,0
+Capture/Check Documents,0,Yes,2,No,0,32200,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:08:52,0,0,0,0,0,0
+Register/Capture/Check Doc. - Transferred LC,0,Yes,2,No,0,32263,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:09:31,0,0,0,0,0,0
+Internet Pending Drawings,0,Yes,2,No,0,32237,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:10:11,0,0,0,0,0,0
+Sight Payment under Export LC,0,Yes,2,No,0,32328,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:10:51,0,0,0,0,0,0
+Sight Payment under Export LC,0,Yes,2,No,0,32342,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:11:30,0,0,0,0,0,0
+Acceptance under Export LC,0,Yes,2,No,0,32193,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:12:10,0,0,0,0,0,0
+Drawings Under Mixed Payment,0,Yes,2,No,0,32174,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:12:50,0,0,0,0,0,0
+Payment/Acceptance under Standby LC,0,Yes,2,No,0,32234,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:13:29,0,0,0,0,0,0
+Online Maturity of Acceptances,0,Yes,2,No,0,32185,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:14:09,0,0,0,0,0,0
+Amendment/Online Settlement of Mixed Payments,0,Yes,2,No,0,32228,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:14:48,0,0,0,0,0,0
+Sight Bill Negotiation/Discounting,0,Yes,2,No,0,32276,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:15:28,0,0,0,0,0,0
+Sight Bill Negotiation/Discounting,0,Yes,2,No,0,32186,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:16:08,0,0,0,0,0,0
+Amendment to Sight Discounting,0,Yes,2,No,0,32237,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:16:48,0,0,0,0,0,0
+Usance Bill Negotiation/Discounting,0,Yes,2,No,0,32217,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:17:28,0,0,0,0,0,0
+Amendment to Usance Discounting,0,Yes,2,No,0,32270,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:18:07,0,0,0,0,0,0
+Mixed Bills Negotiation/Discounting,0,Yes,2,No,0,32162,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:18:47,0,0,0,0,0,0
+Amendment for Mixed Payment Discounting,0,Yes,2,No,0,32246,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:19:26,0,0,0,0,0,0
+Reject Discrepant Documents (Exports),0,Yes,2,No,0,32283,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:20:06,0,0,0,0,0,0
+Reject Discrepant Documents (Exports),0,Yes,2,No,0,32171,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:20:45,0,0,0,0,0,0
+Handling of Rejected Documents(Exports),0,Yes,2,No,0,32326,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:21:25,0,0,0,0,0,0
+Payment Under Reserve (Exports),0,Yes,2,No,0,32230,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:22:05,0,0,0,0,0,0
+Payment Under Reserve (Exports),0,Yes,2,No,0,32242,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:22:44,0,0,0,0,0,0
+Payment of Sight Bill Paid Under Reserve,0,Yes,2,No,0,32221,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:23:24,0,0,0,0,0,0
+Bill (Paid Under Reserve) Returned Unpaid,0,Yes,2,No,0,32261,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:24:04,0,0,0,0,0,0
+Final Rejection of Returned Bill,0,Yes,2,No,0,32215,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:24:44,0,0,0,0,0,0
+Create Export Packing Credit Limit,0,Yes,2,No,0,32303,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:25:23,0,0,0,0,0,0
+Create Export Packing Credit Limit,0,Yes,2,No,0,32331,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:26:03,0,0,0,0,0,0
+Create Export Packing Credit Account,0,Yes,2,No,0,32199,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:26:42,0,0,0,0,0,0
+Sight Negotiation-Adjustment of EPC,0,Yes,2,No,0,32314,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:27:22,0,0,0,0,0,0
+Create Export Packing Credit Loan,0,Yes,2,No,0,32212,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:28:02,0,0,0,0,0,0
+Sight Negotiation-Adjustment of Loan,0,Yes,2,No,0,32360,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:28:42,0,0,0,0,0,0
+Inward LC's,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 06:29:17,0,0,0,0,0,0
+Inward LC's,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 06:29:17,0,0,0,0,0,0
+Bene Consent Amendment's,0,Yes,2,No,0,32264,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:29:18,0,0,0,0,0,0
+Rejection through MT 734,0,Yes,2,No,0,32280,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:29:58,0,0,0,0,0,0
+Non-Conforming Reimbursements,0,Yes,2,No,0,32305,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:30:38,0,0,0,0,0,0
+Other Inward Messages,0,Yes,2,No,0,32283,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:31:17,0,0,0,0,0,0
+Export LC for Back to Back LC,0,Yes,2,No,0,32296,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:31:57,0,0,0,0,0,0
+Export LC for Back to Back LC,0,Yes,2,No,0,32400,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:32:37,0,0,0,0,0,0
+Back to Back Import LC,0,Yes,2,No,0,32250,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:33:16,0,0,0,0,0,0
+Lodge Sight Docy Collection,0,Yes,2,No,0,32253,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:33:56,0,0,0,0,0,0
+Lodge Sight Docy Collection,0,Yes,2,No,0,32289,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:34:36,0,0,0,0,0,0
+Lodge Usance(Tenor) Documentary Collection,0,Yes,2,No,0,32417,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:35:15,0,0,0,0,0,0
+Lodge Clean Collection,0,Yes,2,No,0,32317,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:35:55,0,0,0,0,0,0
+Amendment of Inward/Avalised Collection,0,Yes,2,No,0,32255,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:36:35,0,0,0,0,0,0
+Internet Pending Inward Collections,0,Yes,2,No,0,32357,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:37:15,0,0,0,0,0,0
+Acceptance/Avalisation of Inward Collection,0,Yes,2,No,0,32199,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:37:55,0,0,0,0,0,0
+Payment of Inward Collection,0,Yes,2,No,0,32246,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:38:34,0,0,0,0,0,0
+Initiate Payment of Accepted/Avalised Colln,0,Yes,2,No,0,32279,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:39:14,0,0,0,0,0,0
+Settle Accepted/Avalised Collection,0,Yes,2,No,0,32177,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:39:53,0,0,0,0,0,0
+Take/Reduce Margin,0,Yes,2,No,0,32330,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:40:33,0,0,0,0,0,0
+Closure of Inward Collection,0,Yes,2,No,0,32411,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:41:13,0,0,0,0,0,0
+Messages Processed,0,Yes,2,No,0,32201,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:41:52,0,0,0,0,0,0
+Messages Processed,0,Yes,2,No,0,32259,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:42:32,0,0,0,0,0,0
+Define Direct Collection Range for Customers,0,Yes,2,No,0,32197,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:43:12,0,0,0,0,0,0
+Define Direct Collection Range for Customers,0,Yes,2,No,0,32282,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:43:51,0,0,0,0,0,0
+Lodge Sight Docy Collection,0,Yes,2,No,0,32345,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:44:31,0,0,0,0,0,0
+Lodge Usance(Tenor) Documentary Collection,0,Yes,2,No,0,32291,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:45:11,0,0,0,0,0,0
+Lodge Clean Collections,0,Yes,2,No,0,32256,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:45:50,0,0,0,0,0,0
+Internet Pending Outward Collections,0,Yes,2,No,0,32233,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:46:30,0,0,0,0,0,0
+Amend/Upload(Docs) Outward Collection,0,Yes,2,No,0,32267,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:47:10,0,0,0,0,0,0
+Trace the Collection,0,Yes,2,No,0,32223,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:47:49,0,0,0,0,0,0
+Acceptance of Outward Collection,0,Yes,2,No,0,32225,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:48:30,0,0,0,0,0,0
+Payment of Outward Collection,0,Yes,2,No,0,32380,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:49:09,0,0,0,0,0,0
+Online Maturity of Accepted Collections,0,Yes,2,No,0,32206,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:49:49,0,0,0,0,0,0
+Purchase of Collection,0,Yes,2,No,0,32213,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:50:29,0,0,0,0,0,0
+Purchase of Collection,0,Yes,2,No,0,32352,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:51:08,0,0,0,0,0,0
+Amendment to Collection Purchased,0,Yes,2,No,0,32201,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:51:48,0,0,0,0,0,0
+Purchase of Avalised Collection,0,Yes,2,No,0,32242,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:52:28,0,0,0,0,0,0
+Amendment to Avalised Collection Purchased,0,Yes,2,No,0,32264,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:53:07,0,0,0,0,0,0
+Return of outward collections,0,Yes,2,No,0,32225,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:53:47,0,0,0,0,0,0
+Return of outward collections,0,Yes,2,No,0,32429,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:54:26,0,0,0,0,0,0
+Closure of outward collections,0,Yes,2,No,0,32230,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:55:06,0,0,0,0,0,0
+Messages Processed,0,Yes,2,No,0,32238,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:55:46,0,0,0,0,0,0
+Messages Processed,0,Yes,2,No,0,32404,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:56:25,0,0,0,0,0,0
+Lodge Import Documents,0,Yes,2,No,0,32259,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:57:05,0,0,0,0,0,0
+Lodge Import Documents,0,Yes,2,No,0,32360,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:57:45,0,0,0,0,0,0
+Lodge Import Documents,0,Yes,2,No,0,32287,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:58:25,0,0,0,0,0,0
+Amend Import Documents,0,Yes,2,No,0,32204,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:59:04,0,0,0,0,0,0
+Sight Payment of Import Docs,0,Yes,2,No,0,32245,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 06:59:44,0,0,0,0,0,0
+Usance Payment,0,Yes,2,No,0,32384,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:00:23,0,0,0,0,0,0
+Lodge Export Documents,0,Yes,2,No,0,32455,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:01:03,0,0,0,0,0,0
+Lodge Export Documents,0,Yes,2,No,0,32312,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:01:43,0,0,0,0,0,0
+Amend Export Documents,0,Yes,2,No,0,32398,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:02:23,0,0,0,0,0,0
+Sight Payment of Export Docs,0,Yes,2,No,0,32174,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:03:03,0,0,0,0,0,0
+Usance Payment,0,Yes,2,No,0,32309,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:03:42,0,0,0,0,0,0
+Lodge Import Advance Payment,0,Yes,2,No,0,32305,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:04:22,0,0,0,0,0,0
+Lodge Import Advance Payment,0,Yes,2,No,0,32214,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:05:02,0,0,0,0,0,0
+Lodge Import Advance Payment,0,Yes,2,No,0,32267,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:05:41,0,0,0,0,0,0
+Amend Import Advance Payment,0,Yes,2,No,0,32217,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:06:21,0,0,0,0,0,0
+Lodge Export Advance Payment,0,Yes,2,No,0,32259,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:07:00,0,0,0,0,0,0
+Lodge Export Advance Payment,0,Yes,2,No,0,32231,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:07:40,0,0,0,0,0,0
+Amend Export Advance Payment,0,Yes,2,No,0,32298,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:08:20,0,0,0,0,0,0
+LC Reimbursement Transactions,0,Yes,2,No,0,32293,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:08:59,0,0,0,0,0,0
+LC Reimbursement Transactions,0,Yes,2,No,0,32227,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:09:39,0,0,0,0,0,0
+Reimbursement Authorisation,0,Yes,2,No,0,32295,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:10:19,0,0,0,0,0,0
+Unauthorised LC / Colln Transactions,0,Yes,2,No,0,32351,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:10:58,0,0,0,0,0,0
+Unauthorised LC / Colln Transactions,0,Yes,2,No,0,32388,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:11:38,0,0,0,0,0,0
+Unauthorised Drawings,0,Yes,2,No,0,32168,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:12:18,0,0,0,0,0,0
+Unauthorised ChargesS,0,Yes,2,No,0,32307,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:12:57,0,0,0,0,0,0
+Import LCs Outstanding,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 07:13:39,0,0,0,0,0,0
+Avalised Inward Collections,0,Yes,2,No,0,32259,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:13:43,0,0,0,0,0,0
+Import Drawing Payment Orders,0,Yes,2,No,0,32273,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:14:23,0,0,0,0,0,0
+Export Drawing Payment Orders,0,Yes,2,No,0,32234,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:15:02,0,0,0,0,0,0
+Issue of Generic Undertaking,0,Yes,2,No,0,32336,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:15:42,0,0,0,0,0,0
+Issue of Generic Undertaking,0,Yes,2,No,0,32248,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:16:22,0,0,0,0,0,0
+Issue of Generic Undertaking,0,Yes,2,No,0,32278,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:17:01,0,0,0,0,0,0
+Issue of Generic Undertaking,0,Yes,2,No,0,32232,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:17:41,0,0,0,0,0,0
+Issue of Generic Undertaking,0,Yes,2,No,0,32313,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:18:21,0,0,0,0,0,0
+Issue of Bid Bond,0,Yes,2,No,0,32230,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:19:00,0,0,0,0,0,0
+Issue of Performance Bond,0,Yes,2,No,0,32342,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:19:40,0,0,0,0,0,0
+Issue of Shipping Guarantee,0,Yes,2,No,0,32295,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:20:20,0,0,0,0,0,0
+Issue of Standby LC,0,Yes,2,No,0,32331,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:21:00,0,0,0,0,0,0
+Issue of Standby LC,0,Yes,2,No,0,32354,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:21:40,0,0,0,0,0,0
+Amend/Reverse - Guarantee Issued,0,Yes,2,No,0,32248,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:22:20,0,0,0,0,0,0
+Amend/Reverse - Guarantee Issued,0,Yes,2,No,0,32191,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:22:59,0,0,0,0,0,0
+Amend/Reverse - Guarantee Issued,0,Yes,2,No,0,32396,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:23:39,0,0,0,0,0,0
+Amendment Response To Guarantee Issued,0,Yes,2,No,0,32240,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:24:19,0,0,0,0,0,0
+Internet Amend Requests,0,Yes,2,No,0,32226,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:24:58,0,0,0,0,0,0
+Register Claim under Guarantee,0,Yes,2,No,0,32270,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:25:38,0,0,0,0,0,0
+Register Claim under Guarantee,0,Yes,2,No,0,32235,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:26:18,0,0,0,0,0,0
+Register Claim under Guarantee,0,Yes,2,No,0,32267,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:26:57,0,0,0,0,0,0
+Pay/ Reject Claim under Guarantee,0,Yes,2,No,0,32283,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:27:37,0,0,0,0,0,0
+Internet - Pending claims under Process,0,Yes,2,No,0,32343,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:28:17,0,0,0,0,0,0
+Register Presentation under Standby LC,0,Yes,2,No,0,32345,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:28:57,0,0,0,0,0,0
+Register Presentation under Standby LC,0,Yes,2,No,0,32327,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:29:36,0,0,0,0,0,0
+Register Claim under Standby LC,0,Yes,2,No,0,32204,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:30:16,0,0,0,0,0,0
+Pay/ Reject Claim under Standby LC,0,Yes,2,No,0,32365,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:30:55,0,0,0,0,0,0
+Change Commission Rate,0,Yes,2,No,0,32402,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:31:35,0,0,0,0,0,0
+Release Guarantee Margin,0,Yes,2,No,0,32249,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:32:15,0,0,0,0,0,0
+Expiry of Guarantees,0,Yes,2,No,0,32210,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:32:55,0,0,0,0,0,0
+Cancellation of Shipping Guarantee,0,Yes,2,No,0,32253,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:33:34,0,0,0,0,0,0
+Reinstate Liquidated Guarantees,0,Yes,2,No,0,32305,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:34:14,0,0,0,0,0,0
+Non-Extension Notification,0,Yes,2,No,0,32169,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:34:54,0,0,0,0,0,0
+Internet Requests,0,Yes,2,No,0,32293,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:35:33,0,0,0,0,0,0
+Internet Requests,0,Yes,2,No,0,32246,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:36:13,0,0,0,0,0,0
+Inward Guarantee Swift Messages,0,Yes,2,No,0,32296,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:36:53,0,0,0,0,0,0
+Inward Guarantee Swift Messages,0,Yes,2,No,0,32257,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:37:32,0,0,0,0,0,0
+Issue of Multi-party Guarantee,0,Yes,2,No,0,32278,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:38:12,0,0,0,0,0,0
+Issue of Multi-party Guarantee,0,Yes,2,No,0,32373,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:38:51,0,0,0,0,0,0
+Amendment to Multi-party Guarantee,0,Yes,2,No,0,32261,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:39:31,0,0,0,0,0,0
+Participation Taken,0,Yes,2,No,0,32259,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:40:11,0,0,0,0,0,0
+Generic-Guarantee/Standby LC,0,Yes,2,No,0,32203,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:40:51,0,0,0,0,0,0
+Generic-Guarantee/Standby LC,0,Yes,2,No,0,32259,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:41:30,0,0,0,0,0,0
+Generic-Guarantee/Standby LC,0,Yes,2,No,0,32291,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:42:10,0,0,0,0,0,0
+Guarantee Received-Covering Facility,0,Yes,2,No,0,32270,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:42:50,0,0,0,0,0,0
+Inward MT760 Messages,0,Yes,2,No,0,32303,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:43:29,0,0,0,0,0,0
+Inward MT760 Messages,0,Yes,2,No,0,32251,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:44:09,0,0,0,0,0,0
+Amendment to Guarantee Received,0,Yes,2,No,0,32216,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:44:49,0,0,0,0,0,0
+Amendment to Guarantee Received,0,Yes,2,No,0,32214,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:45:28,0,0,0,0,0,0
+Amendment to Guarantee Received,0,Yes,2,No,0,32219,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:46:08,0,0,0,0,0,0
+Amendment Response to Guarantee Received,0,Yes,2,No,0,32263,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:46:47,0,0,0,0,0,0
+Register Claim under Guarantee Received,0,Yes,2,No,0,32307,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:47:27,0,0,0,0,0,0
+Register Claim under Guarantee Received,0,Yes,2,No,0,32213,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:48:07,0,0,0,0,0,0
+Register Claim under Guarantee Received,0,Yes,2,No,0,32254,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:48:46,0,0,0,0,0,0
+Pay/Reject Claim under Guarantee Received,0,Yes,2,No,0,32237,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:49:26,0,0,0,0,0,0
+Internet Initiated Claim Requests,0,Yes,2,No,0,32215,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:50:06,0,0,0,0,0,0
+Register Presentation under StandbyLC,0,Yes,2,No,0,32217,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:50:45,0,0,0,0,0,0
+Register Presentation under StandbyLC,0,Yes,2,No,0,32249,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:51:25,0,0,0,0,0,0
+Register Claim under StandbyLC,0,Yes,2,No,0,32309,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:52:05,0,0,0,0,0,0
+Pay/Reject Claim under StandbyLC,0,Yes,2,No,0,32284,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:52:44,0,0,0,0,0,0
+Inward Guarantees Received,0,Yes,2,No,0,32257,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:53:24,0,0,0,0,0,0
+Release Guarantees Liability,0,Yes,2,No,0,32245,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:54:04,0,0,0,0,0,0
+Generic-Guarantee Received/Advised,0,Yes,2,No,0,32344,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:54:44,0,0,0,0,0,0
+Generic-Guarantee Received/Advised,0,Yes,2,No,0,32254,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:55:24,0,0,0,0,0,0
+Generic-Guarantee Received/Advised,0,Yes,2,No,0,32229,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:56:03,0,0,0,0,0,0
+Amendment to Guarantee Advised,0,Yes,2,No,0,32198,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:56:43,0,0,0,0,0,0
+Amendment to Guarantee Advised,0,Yes,2,No,0,32283,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:57:23,0,0,0,0,0,0
+Amendment to Guarantee Advised,0,Yes,2,No,0,32231,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:58:02,0,0,0,0,0,0
+Amendment Response to Guarantee Advised,0,Yes,2,No,0,32268,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:58:42,0,0,0,0,0,0
+Advise Response to Presentation under Standby LC,0,Yes,2,No,0,32185,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 07:59:22,0,0,0,0,0,0
+Advise Response to Presentation under Standby LC,0,Yes,2,No,0,32286,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:00:01,0,0,0,0,0,0
+Advise Response to Presentation under Standby LC,0,Yes,2,No,0,32206,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:00:41,0,0,0,0,0,0
+Register Claim under Standby LC Advised,0,Yes,2,No,0,32271,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:01:21,0,0,0,0,0,0
+Pay/Reject Claim under Standby LC Advised,0,Yes,2,No,0,32181,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:02:00,0,0,0,0,0,0
+Issue of Counter/Counter-counter Undertakings,0,Yes,2,No,0,32214,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:02:40,0,0,0,0,0,0
+Issue of Counter/Counter-counter Undertakings,0,Yes,2,No,0,32253,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:03:19,0,0,0,0,0,0
+Issue of Counter/Counter-counter Undertakings,0,Yes,2,No,0,32218,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:03:59,0,0,0,0,0,0
+Issue of Standby LC Undertaking,0,Yes,2,No,0,32335,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:04:39,0,0,0,0,0,0
+Counter/Counter-counter Undertaking,0,Yes,2,No,0,32238,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:05:18,0,0,0,0,0,0
+Counter/Counter-counter Undertaking,0,Yes,2,No,0,32257,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:05:58,0,0,0,0,0,0
+Counter/Counter-counter Standby LC,0,Yes,2,No,0,32314,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:06:38,0,0,0,0,0,0
+List of Transferable received Undertaking,0,Yes,2,No,0,32294,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:07:17,0,0,0,0,0,0
+List of Transferable received Undertaking,0,Yes,2,No,0,32233,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:07:57,0,0,0,0,0,0
+Issue of Transfer Undertaking,0,Yes,2,No,0,32283,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:08:37,0,0,0,0,0,0
+MD Reimbursement Processing,0,Yes,2,No,0,32161,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:09:16,0,0,0,0,0,0
+MD Reimbursement Processing,0,Yes,2,No,0,32236,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:09:56,0,0,0,0,0,0
+Art & Antiques Register,0,Yes,2,No,0,32271,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:10:36,0,0,0,0,0,0
+Art & Antiques Register,0,Yes,2,No,0,32232,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:11:15,0,0,0,0,0,0
+Guarantee Claimed Commission Settlement,0,Yes,2,No,0,32232,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:11:55,0,0,0,0,0,0
+Guarantee Claimed Commission Settlement,0,Yes,2,No,0,32347,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:12:35,0,0,0,0,0,0
+Guarantee Commission Refund,0,Yes,2,No,0,32226,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:13:15,0,0,0,0,0,0
+Writeoff of Uncollected Commission,0,Yes,2,No,0,32196,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:13:54,0,0,0,0,0,0
+Refund of Guarantee Charges,0,Yes,2,No,0,32433,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:14:34,0,0,0,0,0,0
+Unauthorised Guarantee Transactions,0,Yes,2,No,0,32287,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:15:14,0,0,0,0,0,0
+Unauthorised Guarantee Transactions,0,Yes,2,No,0,32261,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:15:53,0,0,0,0,0,0
+Authorise/Delete Guarantee Issued,0,Yes,2,No,0,32269,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:16:33,0,0,0,0,0,0
+Authorise/Delete Guarantee Issued,0,Yes,2,No,0,32191,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:17:13,0,0,0,0,0,0
+Authorise/Delete Guarantee Received,0,Yes,2,No,0,32187,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:17:52,0,0,0,0,0,0
+Authorisation of Guarantee Comm Transactions,0,Yes,2,No,0,32331,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:18:32,0,0,0,0,0,0
+Authorisation Refund of Charges,0,Yes,2,No,0,32313,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:19:12,0,0,0,0,0,0
+Authorise/Delete Internet Requests,0,Yes,2,No,0,32305,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:19:51,0,0,0,0,0,0
+Guarantees Issued Outstanding,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 08:20:33,0,0,0,0,0,0
+Claims Received Under Guarantee,0,Yes,2,No,0,32366,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:20:37,0,0,0,0,0,0
+Claims Paid / Cancelled under Guarantee,0,Yes,2,No,0,32230,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:21:17,0,0,0,0,0,0
+Guarantee Payment Orders,0,Yes,2,No,0,32160,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:21:56,0,0,0,0,0,0
+Inward Trade Swift Messages,0,Yes,2,No,0,32228,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:22:36,0,0,0,0,0,0
+Inward Trade Swift Messages,0,Yes,2,No,0,32177,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:23:16,0,0,0,0,0,0
+Processing of Repaired Messages,0,Yes,2,No,0,32231,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:23:55,0,0,0,0,0,0
+Request Stop Payment of Cheque-MT111,0,Yes,2,No,0,32273,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:24:35,0,0,0,0,0,0
+Request Stop Payment of Cheque-MT111,0,Yes,2,No,0,32378,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:25:14,0,0,0,0,0,0
+Request Stop Payment of Cheque-MT111,0,Yes,2,No,0,32171,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:25:54,0,0,0,0,0,0
+Authorise/Delete MT111,0,Yes,2,No,0,32299,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:26:34,0,0,0,0,0,0
+Send Cancellation Message,0,Yes,2,No,0,32163,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:27:14,0,0,0,0,0,0
+Send Query,0,Yes,2,No,0,32290,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:27:54,0,0,0,0,0,0
+Send Answer To Query,0,Yes,2,No,0,32307,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:28:33,0,0,0,0,0,0
+Unauthorised Miscellaneous Message,0,Yes,2,No,0,32289,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:29:13,0,0,0,0,0,0
+Cancellation Requests (MT n92),0,Yes,2,No,0,32332,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:29:53,0,0,0,0,0,0
+Cancellation Requests (MT n92),0,Yes,2,No,0,32228,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:30:33,0,0,0,0,0,0
+Queries Received (MT n95),0,Yes,2,No,0,32347,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:31:12,0,0,0,0,0,0
+Answers Received (MT n96),0,Yes,2,No,0,32249,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:31:52,0,0,0,0,0,0
+Inw Free Format Messages (MT n99),0,Yes,2,No,0,32302,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:32:31,0,0,0,0,0,0
+Outward Ancillary Messages,0,Yes,2,No,0,32364,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:33:11,0,0,0,0,0,0
+Outward Ancillary Messages,0,Yes,2,No,0,32332,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:33:51,0,0,0,0,0,0
+Authorise Ancillary Message for LC's,0,Yes,2,No,0,32240,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:34:28,0,0,0,0,0,0
+Authorise Ancillary Message for Guarantees,0,Yes,2,No,0,32352,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:35:07,0,0,0,0,0,0
+Product Catalog,0,Yes,2,No,0,32205,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:35:47,0,0,0,0,0,0
+Product Catalog,0,Yes,2,No,0,32215,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:36:27,0,0,0,0,0,0
+Find Deal,0,Yes,2,No,0,32371,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:37:06,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32205,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:37:46,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32266,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:38:26,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32291,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:39:05,0,0,0,0,0,0
+AA Bills Repayment,0,Yes,2,No,0,32215,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:39:45,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32190,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:40:25,0,0,0,0,0,0
+Find Facility,0,Yes,2,No,0,32411,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:41:04,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32181,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:41:44,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32371,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:42:24,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32265,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:43:03,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32227,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:43:43,0,0,0,0,0,0
+AA Principal Decrease,0,Yes,2,No,0,32304,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:44:23,0,0,0,0,0,0
+AA Bills Repayment,0,Yes,2,No,0,32264,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:45:02,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32246,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:45:42,0,0,0,0,0,0
+Find Drawings,0,Yes,2,No,0,32349,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:46:22,0,0,0,0,0,0
+AA Disbursement Domestic,0,Yes,2,No,0,32192,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:47:01,0,0,0,0,0,0
+AA Disbursement Domestic,0,Yes,2,No,0,32231,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:47:41,0,0,0,0,0,0
+AA Disbursement Domestic,0,Yes,2,No,0,32343,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:48:20,0,0,0,0,0,0
+AA Disbursement International,0,Yes,2,No,0,32353,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:49:00,0,0,0,0,0,0
+AA Repayment,0,Yes,2,No,0,32339,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:49:40,0,0,0,0,0,0
+AA Advance Repayment,0,Yes,2,No,0,32351,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:50:20,0,0,0,0,0,0
+AA Pay-off,0,Yes,2,No,0,32232,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:50:59,0,0,0,0,0,0
+AA Principal Decrease,0,Yes,2,No,0,32267,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:51:39,0,0,0,0,0,0
+AA Credit Arrangement,0,Yes,2,No,0,32356,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:52:19,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32485,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:52:58,0,0,0,0,0,0
+AA Commission and Charges Repayment,0,Yes,2,No,0,32211,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:53:38,0,0,0,0,0,0
+AA Commission and Charges Repayment,0,Yes,2,No,0,32202,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:54:18,0,0,0,0,0,0
+AA Commission and Charges Repayment,0,Yes,2,No,0,32221,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:54:57,0,0,0,0,0,0
+Authorise/Delete Arrangements (PO),0,Yes,2,No,0,32202,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:55:37,0,0,0,0,0,0
+Find GTEE/SBLC,0,Yes,2,No,0,32254,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:56:17,0,0,0,0,0,0
+Find GTEE/SBLC,0,Yes,2,No,0,32169,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:56:56,0,0,0,0,0,0
+New Evidence,0,Yes,2,No,0,32175,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:57:36,0,0,0,0,0,0
+New Evidence,0,Yes,2,No,0,32318,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:58:16,0,0,0,0,0,0
+Capture Loan Trade,0,Yes,2,No,0,32206,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:58:55,0,0,0,0,0,0
+Capture Loan Trade,0,Yes,2,No,0,32225,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 08:59:36,0,0,0,0,0,0
+Authorise/Edit/Delete Loan Trade,0,Yes,2,No,0,32253,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:00:16,0,0,0,0,0,0
+Pending Confirmation Trades,0,Yes,2,No,0,32342,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:00:55,0,0,0,0,0,0
+Confirmed Trades,0,Yes,2,No,0,32302,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:01:35,0,0,0,0,0,0
+Pending Consent,0,Yes,2,No,0,32293,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:02:14,0,0,0,0,0,0
+Pending Settlement Trades,0,Yes,2,No,0,32203,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:02:54,0,0,0,0,0,0
+Loan Trades Booked Today,0,Yes,2,No,0,32348,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:03:34,0,0,0,0,0,0
+Loan Trade Charges,0,Yes,2,No,0,32310,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:04:13,0,0,0,0,0,0
+Pre Syndication,0,Yes,2,No,0,32223,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:04:53,0,0,0,0,0,0
+Pre Syndication,0,Yes,2,No,0,32251,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:05:33,0,0,0,0,0,0
+Pre Syndication,0,Yes,2,No,0,32298,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:06:12,0,0,0,0,0,0
+Pre Syndication,0,Yes,2,No,0,32262,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:06:52,0,0,0,0,0,0
+Authorise/Delete Unauth Pre Syndication Recs,0,Yes,2,No,0,32315,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:07:31,0,0,0,0,0,0
+Reverse Authorised Pre Synd Recs,0,Yes,2,No,0,32210,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:08:11,0,0,0,0,0,0
+Create Facility,0,Yes,2,No,0,32273,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:08:51,0,0,0,0,0,0
+Create Facility,0,Yes,2,No,0,32313,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:09:30,0,0,0,0,0,0
+Facility Definition/Delete,0,Yes,2,No,0,32278,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:10:10,0,0,0,0,0,0
+Amend Facility,0,Yes,2,No,0,32305,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:10:50,0,0,0,0,0,0
+Authorise/Delete Unauth Facility Records,0,Yes,2,No,0,32379,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:11:29,0,0,0,0,0,0
+Loan through Enquiry,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 09:12:11,0,0,0,0,0,0
+Loan Drawdown,0,Yes,2,No,0,32271,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:12:15,0,0,0,0,0,0
+Amend Loans,0,Yes,2,No,0,32329,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:12:55,0,0,0,0,0,0
+Authorise/Delete Loans,0,Yes,2,No,0,32241,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:13:35,0,0,0,0,0,0
+Create Facility,0,Yes,2,No,0,32326,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:14:14,0,0,0,0,0,0
+Create Facility,0,Yes,2,No,0,32347,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:14:54,0,0,0,0,0,0
+Create Facility,0,Yes,2,No,0,32413,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:15:34,0,0,0,0,0,0
+Amend Facility,0,Yes,2,No,0,32250,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:16:13,0,0,0,0,0,0
+Authorise/Delete Unauth Facility Records,0,Yes,2,No,0,32323,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:16:53,0,0,0,0,0,0
+Loan Drawdown,0,Yes,2,No,0,32231,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:17:33,0,0,0,0,0,0
+Loan Drawdown,0,Yes,2,No,0,32269,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:18:12,0,0,0,0,0,0
+Amend Loans,0,Yes,2,No,0,32262,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:18:52,0,0,0,0,0,0
+Authorise/Delete Loans,0,Yes,2,No,0,32305,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:19:31,0,0,0,0,0,0
+Buy / Sell Contingent Portion,0,Yes,2,No,0,32348,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:20:11,0,0,0,0,0,0
+Buy / Sell Contingent Portion,0,Yes,2,No,0,32352,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:20:51,0,0,0,0,0,0
+Buy / Sell Non Contingent Portion,0,Yes,2,No,0,32400,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:21:30,0,0,0,0,0,0
+Convert Syndicate to Bilateral,0,Yes,2,No,0,32350,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:22:10,0,0,0,0,0,0
+Principal Movements in Tranches,0,Yes,2,No,0,32242,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:22:50,0,0,0,0,0,0
+Extend Drawdown Maturiy Date (after expiry),0,Yes,2,No,0,32243,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:23:29,0,0,0,0,0,0
+Authorise/Delete Trading,0,Yes,2,No,0,32257,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:24:09,0,0,0,0,0,0
+Non Contingent (Loan),0,Yes,2,No,0,32301,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:24:49,0,0,0,0,0,0
+Non Contingent (Loan),0,Yes,2,No,0,32326,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:25:28,0,0,0,0,0,0
+Authorise/Delete Non Contingent (Loan),0,Yes,2,No,0,32310,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:26:08,0,0,0,0,0,0
+Contingent (Tranches),0,Yes,2,No,0,32403,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:26:48,0,0,0,0,0,0
+Authorise/Delete Contingent (Tranches),0,Yes,2,No,0,32347,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:27:27,0,0,0,0,0,0
+Buy / Sell Non Contingent Portion(Process),0,Yes,2,No,0,32234,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:28:07,0,0,0,0,0,0
+Buy / Sell Non Contingent Portion(Process),0,Yes,2,No,0,32277,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:28:46,0,0,0,0,0,0
+Mature/Partial Repay Loan,0,Yes,2,No,0,32273,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:29:26,0,0,0,0,0,0
+Mature/Partial Repay Loan,0,Yes,2,No,0,32294,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:30:06,0,0,0,0,0,0
+Defining Repayment,0,Yes,2,No,0,32269,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:30:45,0,0,0,0,0,0
+Authorise/Delete Repayment,0,Yes,2,No,0,32285,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:31:25,0,0,0,0,0,0
+Tranchewise online Repayment of SL Loans,0,Yes,2,No,0,32273,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:32:05,0,0,0,0,0,0
+Diary Events,0,Yes,2,No,0,32292,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:32:45,0,0,0,0,0,0
+Diary Events,0,Yes,2,No,0,32365,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:33:25,0,0,0,0,0,0
+Authorise/Delete Diary Events,0,Yes,2,No,0,32270,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:34:04,0,0,0,0,0,0
+Rollover/Merger/Split Loans,0,Yes,2,No,0,32241,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:34:44,0,0,0,0,0,0
+Rollover/Merger/Split Loans,0,Yes,2,No,0,32328,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:35:24,0,0,0,0,0,0
+Authorise Rollover/Merger/Split Loans,0,Yes,2,No,0,32274,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:36:03,0,0,0,0,0,0
+Define Charge for Rollover/Merger/Split SL,0,Yes,2,No,0,32302,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:36:43,0,0,0,0,0,0
+Floating Rate Fixing,0,Yes,2,No,0,32264,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:37:23,0,0,0,0,0,0
+Floating Rate Fixing,0,Yes,2,No,0,32278,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:38:02,0,0,0,0,0,0
+Authorise/Delete Unauth Floating Rate Fixing,0,Yes,2,No,0,32296,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:38:42,0,0,0,0,0,0
+Currency-wise Facility Rates,0,Yes,2,No,0,32351,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:39:22,0,0,0,0,0,0
+Authorise/Delete Unauth Ccy wise Facility Rec,0,Yes,2,No,0,32343,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:40:01,0,0,0,0,0,0
+Participant wise Intt & Comm Fee,0,Yes,2,No,0,32333,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:40:41,0,0,0,0,0,0
+Authorise/Delete Part wise Intt & Comm,0,Yes,2,No,0,32364,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:41:21,0,0,0,0,0,0
+Define Charge,0,Yes,2,No,0,32349,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:42:00,0,0,0,0,0,0
+Define Charge,0,Yes,2,No,0,32367,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:42:40,0,0,0,0,0,0
+Authorise/Delete Charge,0,Yes,2,No,0,32331,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:43:20,0,0,0,0,0,0
+Overdues from Borrower,0,Yes,2,No,0,32369,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:43:59,0,0,0,0,0,0
+Adjust Overdues,0,Yes,2,No,0,32387,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:44:39,0,0,0,0,0,0
+Authorise/Delete Adjust Overdues,0,Yes,2,No,0,32346,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:45:19,0,0,0,0,0,0
+Settle Overdues,0,Yes,2,No,0,32267,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:45:59,0,0,0,0,0,0
+Authorise/Delete Settle Overdues,0,Yes,2,No,0,32257,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:46:38,0,0,0,0,0,0
+View Unauthorised Accounting Entries,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 09:47:20,0,0,0,0,0,0
+List of Participant-wise fee,0,Yes,2,No,0,32327,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:47:24,0,0,0,0,0,0
+Overdue List,0,Yes,2,No,0,32402,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:48:04,0,0,0,0,0,0
+Facility Avail/Unaval Commitment Fees Dtls,0,Yes,2,No,0,32203,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:48:43,0,0,0,0,0,0
+Attach Limit to Overdraft Account,0,Yes,2,No,0,32331,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:49:23,0,0,0,0,0,0
+Attach Limit to Overdraft Account,0,Yes,2,No,0,32311,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:50:03,0,0,0,0,0,0
+Attach Limit to Overdraft Account,0,Yes,2,No,0,32252,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:50:42,0,0,0,0,0,0
+Corporate Loans,0,Yes,2,No,0,32339,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:51:22,0,0,0,0,0,0
+"Discounted Loan (Bills, Acceptances, etc.)",0,Yes,2,No,0,32335,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:52:02,0,0,0,0,0,0
+Input Commitment,0,Yes,2,No,0,32198,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:52:41,0,0,0,0,0,0
+Loan under Commitment (Project Loans),0,Yes,2,No,0,32222,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:53:21,0,0,0,0,0,0
+Authorise/Delete Attach Limit,0,Yes,2,No,0,32364,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:54:01,0,0,0,0,0,0
+Amend/Reverse - Loans,0,Yes,2,No,0,32307,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:54:40,0,0,0,0,0,0
+Amend/Reverse - Loans,0,Yes,2,No,0,32412,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:55:20,0,0,0,0,0,0
+Online Repayment,0,Yes,2,No,0,32336,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:56:00,0,0,0,0,0,0
+Manual Provisioning on Loans,0,Yes,2,No,0,32281,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:56:39,0,0,0,0,0,0
+Authorise/Delete Commitment,0,Yes,2,No,0,32330,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:57:19,0,0,0,0,0,0
+Authorise/Delete Commitment,0,Yes,2,No,0,32298,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:57:59,0,0,0,0,0,0
+Authorise/Delete Online Repayment,0,Yes,2,No,0,32330,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:58:38,0,0,0,0,0,0
+Authorise/Delete Loan,0,Yes,2,No,0,32266,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:59:18,0,0,0,0,0,0
+Authorise/Delete Manual Provisioning of Loans,0,Yes,2,No,0,32361,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 09:59:57,0,0,0,0,0,0
+Repay/Adjust/Write-Off Past Dues,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 10:00:39,0,0,0,0,0,0
+Repay/Adjust/Write-Off Past Dues,0,No,1,No,0,0,,,Yes,Could not find menu link,2026-02-03 10:00:45,0,0,0,0,0,0
+Authorise/Delete Past Due Settlement,0,Yes,2,No,0,32177,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 10:00:49,0,0,0,0,0,0
+Authorise/Delete PD Adjustment/WOF,0,Yes,2,No,0,32257,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 10:01:29,0,0,0,0,0,0
+Capture Overdues from Accounts,0,Yes,2,No,0,32311,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 10:02:09,0,0,0,0,0,0
+Capture Overdues from Accounts,0,Yes,2,No,0,32233,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,10.0.251.41,No,,2026-02-03 10:02:48,0,0,0,0,0,0

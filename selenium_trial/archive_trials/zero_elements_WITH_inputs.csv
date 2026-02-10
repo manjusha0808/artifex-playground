@@ -1,0 +1,101 @@
+PageName,ElementCount,PopupOpened,WindowCount,HasIframes,IframeCount,ProcessingTime_ms,PageURL,PageTitle,ErrorOccurred,ErrorMessage,Timestamp,InputCount,SelectCount,TextareaCount,TotalInputElements,VisibleInputs,HiddenInputs
+Individual Customer,0,Yes,2,Yes,2,9365,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,CUSTOMER,No,,2026-02-02 22:38:27,419,18,5,442,24,395
+Open Current Account,0,Yes,2,Yes,2,7888,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,ACCOUNT,No,,2026-02-02 22:59:40,320,4,0,324,38,282
+Create Customer Delivery Preference,0,Yes,2,Yes,2,6543,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Preferences,No,,2026-02-02 22:56:14,308,7,0,315,18,290
+Draft Issue in Local Currency,0,Yes,2,Yes,2,7303,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Payment Order,No,,2026-02-02 23:43:46,309,1,1,311,20,289
+Cash deposit Local,0,Yes,2,Yes,2,6494,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:31:04,309,1,0,310,2,307
+Account to Account Transfer,0,Yes,2,Yes,2,5246,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:37:38,309,1,0,310,2,307
+LCY Till Transfer,0,Yes,2,Yes,2,5765,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:38:42,309,1,0,310,2,307
+Deposit Local Cheques - Direct Clearing,0,Yes,2,Yes,2,5430,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:53:15,309,1,0,310,2,307
+Receipt of TC Stock,0,Yes,2,Yes,2,5304,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:33:49,309,1,0,310,2,307
+Deposit Outstation Cheques,0,Yes,2,Yes,2,5298,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:56:07,309,1,0,310,2,307
+Deposit Local Cheques - Direct Clearing,0,Yes,2,Yes,2,5525,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:53:25,309,1,0,310,2,307
+Deposit Foreign Cheques,0,Yes,2,Yes,2,5363,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:57:47,309,1,0,310,2,307
+Cash deposit Local,0,Yes,2,Yes,2,6858,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:30:53,309,1,0,310,2,307
+Sell Fgn Ccy against Local Ccy,0,Yes,2,Yes,2,5239,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER,No,,2026-02-02 23:32:54,309,1,0,310,2,307
+Input Prospect (Person),0,Yes,2,Yes,2,6106,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,PERSON.ENTITY,No,,2026-02-02 22:30:34,300,3,0,303,32,268
+Input Prospect (Person),0,Yes,2,Yes,2,6423,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,PERSON.ENTITY,No,,2026-02-02 22:30:22,300,3,0,303,32,268
+Input Prospect (Person),0,Yes,2,Yes,2,6437,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,PERSON.ENTITY,No,,2026-02-02 22:30:45,300,3,0,303,32,268
+Input Prospect (Entity),0,Yes,2,Yes,2,6322,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,PERSON.ENTITY,No,,2026-02-02 22:31:50,296,2,0,298,30,266
+Find Account,0,Yes,2,No,0,7874,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,AA Arrangement - Model Bank,No,,2026-02-02 23:40:43,274,12,0,286,11,263
+Find Account,0,Yes,2,No,0,7656,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,AA Arrangement - Model Bank,No,,2026-02-02 23:26:03,274,12,0,286,11,263
+Find Account,0,Yes,2,No,0,7732,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,AA Arrangement - Model Bank,No,,2026-02-02 23:40:56,274,12,0,286,11,263
+Capture Transaction Stop Instructions,0,Yes,2,Yes,2,5694,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Transaction Stop Instructions,No,,2026-02-02 23:15:48,277,6,0,283,7,270
+Customer Block,0,Yes,2,Yes,2,2574,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Block Customer or Account,No,,2026-02-02 22:48:01,280,2,1,283,12,268
+Customer Block,0,Yes,2,Yes,2,2496,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Block Customer or Account,No,,2026-02-02 22:48:08,280,2,1,283,12,268
+Generate Account Statement,0,Yes,2,Yes,2,5933,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:05:05,275,1,0,276,12,263
+Generate Account Statement,0,Yes,2,Yes,2,5419,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:10:39,275,1,0,276,12,263
+Initiate Booking Request,0,Yes,2,Yes,2,2305,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Internal Book Request,No,,2026-02-02 23:14:31,273,2,1,276,6,267
+Generate Account Statement,0,Yes,2,Yes,2,5449,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:10:50,275,1,0,276,12,263
+Generate Account Statement,0,Yes,2,Yes,2,5449,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:04:35,275,1,0,276,12,263
+Generate Account Statement,0,Yes,2,Yes,2,5379,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:04:55,275,1,0,276,12,263
+Generate Account Statement,0,Yes,2,Yes,2,5492,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,"ENQUIRY.REPORT,CURRENT",No,,2026-02-02 23:04:45,275,1,0,276,12,263
+Receipt of Stock,0,Yes,2,Yes,2,2563,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,STOCK.ENTRY,No,,2026-02-02 23:48:18,273,1,1,275,9,264
+Capture An Image,0,Yes,2,Yes,2,6050,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,DOCUMENT IMAGE,No,,2026-02-02 23:03:54,271,2,0,273,6,265
+Customer,0,Yes,2,Yes,2,4565,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,CUSTOMER.REL.GROUP,No,,2026-02-02 22:54:16,257,1,0,258,2,255
+Input Party Relationship,0,Yes,2,Yes,2,5181,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Party Relationship,No,,2026-02-02 22:37:46,257,1,0,258,2,255
+Input Customer Relation Group records,0,Yes,2,Yes,2,5045,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,CUSTOMER.REL.GROUP,No,,2026-02-02 22:32:53,257,1,0,258,2,255
+Create New Till,0,Yes,2,Yes,2,4902,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER ID,No,,2026-02-02 23:26:34,257,1,0,258,2,255
+Create New Till,0,Yes,2,Yes,2,4967,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER ID,No,,2026-02-02 23:26:43,257,1,0,258,2,255
+New Card Issue,0,Yes,2,Yes,2,4696,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,CARD ISSUE,No,,2026-02-02 23:52:20,257,1,0,258,2,255
+Update Account Statement,0,Yes,2,Yes,2,4734,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Statement,No,,2026-02-02 23:38:14,257,1,0,258,2,255
+Initiate Till Closure,0,Yes,2,Yes,2,4587,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER ID,No,,2026-02-02 23:39:31,257,1,0,258,2,255
+Create New Till,0,Yes,2,Yes,2,4751,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER ID,No,,2026-02-02 23:26:25,257,1,0,258,2,255
+Input Customer Entity Information,0,Yes,2,Yes,2,4716,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer detail for corporate entities,No,,2026-02-02 22:55:20,257,1,0,258,2,255
+Input Customer Relationship records,0,Yes,2,Yes,2,5010,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,CUSTOMER.REL.GROUP,No,,2026-02-02 22:35:38,257,1,0,258,2,255
+Create/Amend Internal Account,0,Yes,2,Yes,2,4921,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,ACCOUNT,No,,2026-02-02 23:28:46,257,1,0,258,2,255
+Create/Amend Internal Account,0,Yes,2,Yes,2,4667,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,ACCOUNT,No,,2026-02-02 23:28:55,257,1,0,258,2,255
+Create New Till,0,Yes,2,Yes,2,4651,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,TELLER ID,No,,2026-02-02 23:26:52,257,1,0,258,2,255
+Generate MT942 Statement,0,Yes,2,Yes,2,4550,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,DE.MT942.REQUEST,No,,2026-02-02 23:08:40,257,1,0,258,2,255
+Request Intraday XML Account Report,0,Yes,2,Yes,2,4971,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Account Statement,No,,2026-02-02 23:06:03,257,1,0,258,2,255
+Register Proxy Directory,0,Yes,2,Yes,2,4827,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Proxy Directory,No,,2026-02-02 23:17:48,257,1,0,258,2,255
+Request Adhoc XML Account Report,0,Yes,2,Yes,2,4549,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Request statement,No,,2026-02-02 23:05:25,257,1,0,258,2,255
+Customer Onboarding,0,Yes,2,Yes,2,5809,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,PW.PROCESS,No,,2026-02-02 22:47:33,255,1,0,256,0,255
+Authorise / Delete Customer Relation Group,0,Yes,2,Yes,1,8371,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauth Customer Relation Group ids - Model Bank,No,,2026-02-02 22:33:17,221,0,0,221,0,221
+Authorise / Delete Entity records,0,Yes,2,Yes,1,9099,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Entity - Model Bank,No,,2026-02-02 22:32:27,221,0,0,221,0,221
+Input/Amend Customer Group,0,Yes,2,Yes,1,9420,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Group-Input / Amend - Model Bank,No,,2026-02-02 22:33:50,221,0,0,221,0,221
+Input/Amend Customer Group,0,Yes,2,Yes,1,9639,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Group-Input / Amend - Model Bank,No,,2026-02-02 22:33:33,221,0,0,221,0,221
+Authorise / Delete Person records,0,Yes,2,Yes,1,8524,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Person - Model Bank,No,,2026-02-02 22:31:23,221,0,0,221,0,221
+Authorise/Delete Customer Charge,0,Yes,2,Yes,1,9585,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Customer - Model Bank,No,,2026-02-02 22:43:55,221,0,0,221,0,221
+Authorise/Delete Customer,0,Yes,2,Yes,1,9280,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Customer - Model Bank,No,,2026-02-02 22:41:50,221,0,0,221,0,221
+Authorise/Delete Customer SSI,0,Yes,2,Yes,1,8754,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Customer - Model Bank,No,,2026-02-02 22:45:38,221,0,0,221,0,221
+View Customer Group Change,0,Yes,2,Yes,1,8689,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,View Customer Group Change - Model Bank,No,,2026-02-02 22:34:23,221,0,0,221,0,221
+Authorise Customer Group,0,Yes,2,Yes,1,8363,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Group-Authorise - Model Bank,No,,2026-02-02 22:34:07,221,0,0,221,0,221
+Amend Customer Group Change,0,Yes,2,Yes,1,9671,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Group-Input / Amend - Model Bank,No,,2026-02-02 22:34:55,221,0,0,221,0,221
+View Customer Group Change,0,Yes,2,Yes,1,8808,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,View Customer Group Change - Model Bank,No,,2026-02-02 22:34:39,221,0,0,221,0,221
+Authorise Customer Group Change,0,Yes,2,Yes,1,8595,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Group-Authorise - Model Bank,No,,2026-02-02 22:35:13,221,0,0,221,0,221
+Authorise / Delete Customer Relationship recs,0,Yes,2,Yes,1,8844,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauth Customer Relation Group ids - Model Bank,No,,2026-02-02 22:36:03,221,0,0,221,0,221
+Person Entity,0,Yes,2,Yes,1,9102,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Person - Model Bank,No,,2026-02-02 22:36:19,221,0,0,221,0,221
+Person Entity,0,Yes,2,Yes,1,8712,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Person - Model Bank,No,,2026-02-02 22:36:35,221,0,0,221,0,221
+Authorise/Delete Account Maintenance,0,Yes,2,Yes,1,8547,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Account - Model Bank,No,,2026-02-02 23:01:21,221,0,0,221,0,221
+Authorise/Delete Account,0,Yes,2,Yes,1,8411,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Account - Model Bank,No,,2026-02-02 23:00:26,221,0,0,221,0,221
+Amend/View Customer Entity Information,0,Yes,2,Yes,1,8486,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Customer Entity Details - Model Bank,No,,2026-02-02 22:55:29,221,0,0,221,0,221
+Authorise/Delete Customer Entity Information,0,Yes,2,Yes,1,8971,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Customer - Model Bank,No,,2026-02-02 22:55:45,221,0,0,221,0,221
+Authorise/Delete Posting Restrict,0,Yes,2,Yes,1,8881,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Posting Restrict - Model Bank,No,,2026-02-02 22:44:32,221,0,0,221,0,221
+Authorise/Delete Account Closure,0,Yes,2,Yes,1,8761,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Account - Model Bank,No,,2026-02-02 23:03:27,221,0,0,221,0,221
+Transaction Cycler History Details,0,Yes,2,Yes,1,9280,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Transaction Recycler Details - Model Bank,No,,2026-02-02 23:13:28,221,0,0,221,0,221
+Update Proxy Directory,0,Yes,2,Yes,1,8263,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Update Proxy Directory - Model Bank,No,,2026-02-02 23:17:57,221,0,0,221,0,221
+Authorise/Delete Card Issue,0,Yes,2,Yes,1,8814,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Card Issue - Model Bank,No,,2026-02-02 23:52:49,221,0,0,221,0,221
+Authorise/Delete Currency Exchange,0,Yes,2,Yes,1,8633,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Teller Operations - Model Bank,No,,2026-02-02 23:33:24,221,0,0,221,0,221
+Change Till User,0,Yes,2,Yes,1,8205,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Reassign Till - Model Bank,No,,2026-02-02 23:27:01,221,0,0,221,0,221
+Authorise/Delete Nostro Funding,0,Yes,2,Yes,1,9555,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Funds Transfer Operations - Model Bank,No,,2026-02-02 23:29:44,221,0,0,221,0,221
+Authorise Proxy Directory,0,Yes,2,Yes,1,8190,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise Proxy Directory - Model Bank,No,,2026-02-02 23:18:13,221,0,0,221,0,221
+Authorise/Delete TFS Transactions,0,Yes,2,Yes,1,8452,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised TFS - Model Bank,No,,2026-02-02 23:43:17,221,0,0,221,0,221
+Reverse TFS Transaction - History,0,Yes,2,Yes,1,8289,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Reverse TFS Transaction - Model Bank,No,,2026-02-02 23:43:01,221,0,0,221,0,221
+Authorise/Delete Account Transfer,0,Yes,2,Yes,1,8886,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Account - Model Bank,No,,2026-02-02 23:37:48,221,0,0,221,0,221
+Authorise/Delete Foreign Cheques,0,Yes,2,Yes,1,8097,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Foreign Cheques - Model Bank,No,,2026-02-02 23:57:57,221,0,0,221,0,221
+Unauthorised Cheque Issue,0,Yes,2,Yes,1,8673,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Cheque Issue - Model Bank,No,,2026-02-02 23:48:45,221,0,0,221,0,221
+Authorise/Delete Outward Clearing,0,Yes,2,Yes,1,8418,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Outward Clearing - Model Bank,No,,2026-02-02 23:53:45,221,0,0,221,0,221
+Authorise/Delete Cancellation of LCY Drafts,0,Yes,2,Yes,1,8996,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise Cancellation of Drafts - Model Bank,No,,2026-02-02 23:46:54,221,0,0,221,0,221
+Reverse TFS Transaction,0,Yes,2,Yes,1,8459,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Reverse TFS Transaction - Model Bank,No,,2026-02-02 23:42:45,221,0,0,221,0,221
+Authorise/Delete Revoke Stop Payment of Draft,0,Yes,2,Yes,1,8730,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Revoke - Model Bank,No,,2026-02-02 23:46:18,221,0,0,221,0,221
+Authorise/Delete Revoke Payment Stop,0,Yes,2,Yes,1,8582,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Revoke - Model Bank,No,,2026-02-02 23:50:06,221,0,0,221,0,221
+Authorise / Delete Issue of Cheques,0,Yes,2,Yes,1,8490,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Cheque Issue - Model Bank,No,,2026-02-02 23:49:01,221,0,0,221,0,221
+Unrealised Outstation Cheques,0,Yes,2,Yes,1,8251,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Pending Outstation Cheques - Model Bank,No,,2026-02-03 00:00:13,221,0,0,221,0,221
+Unauthorised Cheque Collection,0,Yes,2,Yes,1,8225,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Cheque Issue - Model Bank,No,,2026-02-02 23:58:56,221,0,0,221,0,221
+Unauthorised Cheque Collection,0,Yes,2,Yes,1,8127,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Unauthorised Cheque Issue - Model Bank,No,,2026-02-02 23:59:12,221,0,0,221,0,221
+Authorise/Delete Outstation Cheques,0,Yes,2,Yes,1,8696,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Authorise/Delete Outward Clearing - Model Bank,No,,2026-02-02 23:56:17,221,0,0,221,0,221
+Till TC Buy Entries Today,0,Yes,2,No,0,7129,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Till TC Buy Entries Today - Model Bank,No,,2026-02-02 23:40:31,175,5,0,180,5,170
+Till TC Issue Entries Today,0,Yes,2,No,0,7176,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Till Cash Entries Today - Model Bank,No,,2026-02-02 23:40:19,175,5,0,180,5,170
+Till Cash Entries Today,0,Yes,2,No,0,7140,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,Till Cash Entries Today - Model Bank,No,,2026-02-02 23:40:07,173,7,0,180,5,168
+External Product Catalog,0,Yes,2,No,0,9254,http://10.0.251.41:18080/BrowserWeb/servlet/BrowserServlet,AA Product Catalog (Retail) - Model Bank,No,,2026-02-02 23:25:21,4,0,0,4,0,4
